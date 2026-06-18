@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "Praise awaits you, our God, in Zion; to you our vows will be fulfilled."
 image: "/assets/images/quotes/psalm-65.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 Praise awaits you, our God, in Zion; to you our vows will be fulfilled.

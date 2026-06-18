@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "\"Why are you reading when you don't have to?\" Sevoshka would often say to me Alevtina whenever I sat down with a book on some subject or other that was completely alien to him."
 image: "/assets/images/quotes/karl-ove-knausgaard-wolves-of-eternity.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 ---
 
 "Why are you reading when you don't have to?" Sevoshka would often say to me [Alevtina] whenever I sat down with a book on some subject or other that was completely alien to him.

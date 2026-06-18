@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "The best work is the work you are excited about."
 image: "/assets/images/quotes/rick-rubin.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 The best work is the work you are excited about.

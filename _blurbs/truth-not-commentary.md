@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "> God gave me my writing so that I might tell the truth. But the world does not need more opinions. The world needs balm, salve, and a dressing for the wound. There will be no lase"
 image: "/assets/images/blurbs/truth-not-commentary.jpg"
 image_alt: "A personal doodle illustration selected for this blurb."
+image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 ---
 
 > God gave me my writing so that I might tell the truth.

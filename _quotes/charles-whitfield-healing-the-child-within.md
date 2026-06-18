@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "One reason is that the mother herself is so impoverished and needy that she uses her infant to satisfy her own unmet needs."
 image: "/assets/images/quotes/charles-whitfield-healing-the-child-within.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 One reason is that the mother herself is so impoverished and needy that she uses her infant to satisfy her own unmet needs.

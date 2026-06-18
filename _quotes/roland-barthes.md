@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "..."
 image: "/assets/images/quotes/roland-barthes.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 ---
 
 ...

@@ -6,6 +6,7 @@ source: "Greg Conradi Smith"
 excerpt: "I hold these truths to be self-evident. 1 Corporations are not people. 2 Money is not speech."
 image: "/assets/images/quotes/gdcs-2.jpg"
 image_alt: "A personal doodle illustration selected for this aphorism."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 I hold these truths to be self-evident. (1) Corporations are not people. (2) Money is not speech.

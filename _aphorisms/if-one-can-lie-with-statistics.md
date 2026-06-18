@@ -6,6 +6,7 @@ source: "Greg Conradi Smith"
 excerpt: "If one can lie with statistics, just imagine the possibilities for data science."
 image: "/assets/images/quotes/if-one-can-lie-with-statistics.jpg"
 image_alt: "A personal doodle illustration selected for this aphorism."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 If one can lie with statistics, just imagine the possibilities for data science.

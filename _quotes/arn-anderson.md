@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "I'm both a professor and student, because if you are no longer a student, you don't have the right to call yourself a professor."
 image: "/assets/images/quotes/arn-anderson.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 I'm both a professor and student, because if you are no longer a student, you don't have the right to call yourself a professor.

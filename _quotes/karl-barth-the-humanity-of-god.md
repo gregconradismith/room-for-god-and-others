@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "The Gift of Freedom. Foundation of Evangelical Ethics."
 image: "/assets/images/quotes/karl-barth-the-humanity-of-god.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by the author’s child, 2026."
 ---
 
 The Gift of Freedom. Foundation of Evangelical Ethics.

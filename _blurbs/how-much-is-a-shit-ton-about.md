@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "How much is a shit ton? About three mother loads. 2013."
 image: "/assets/images/blurbs/how-much-is-a-shit-ton-about.jpg"
 image_alt: "A personal doodle illustration selected for this blurb."
+image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 ---
 
 How much is a *shit ton*? About three *mother loads*.[^1]

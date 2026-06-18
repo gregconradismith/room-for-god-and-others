@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "The hope of the Christian is to worship God in such a way that attracts others to God."
 image: "/assets/images/quotes/tripp-york.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 ---
 
 The hope of the Christian is to worship God in such a way that attracts others to God.

@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "Looking back on that conversation today, I cannot help but wonder whether my more hopeful view of the discipline and its intellectual achievements was just a conceit of youth, and "
 image: "/assets/images/quotes/ronald-beiner.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 Looking back on that conversation today, I cannot help but wonder whether my more hopeful view of the discipline and its intellectual achievements was just a conceit of youth, and whether it can survive more rigorous critical scrutiny at a later stage of life.

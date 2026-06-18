@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "In capitalism, man exploits man."
 image: "/assets/images/quotes/mircea-cartarescu.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 In capitalism, man exploits man.

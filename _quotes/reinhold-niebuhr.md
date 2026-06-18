@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "The vantage point from which man judges his insignificance is a very significant vantage point."
 image: "/assets/images/quotes/reinhold-niebuhr.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 The vantage point from which man judges his insignificance is a very significant vantage point.

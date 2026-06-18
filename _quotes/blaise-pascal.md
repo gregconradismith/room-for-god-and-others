@@ -5,6 +5,7 @@ date: 2026-04-27
 excerpt: "The heart has reasons which reason does not know."
 image: "/assets/images/quotes/blaise-pascal.jpg"
 image_alt: "A personal doodle illustration selected for this quote."
+image_credit: "Drawing by Greg Conrad Smith, 2026."
 ---
 
 The heart has reasons which reason does not know.
