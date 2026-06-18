@@ -3,7 +3,9 @@
 This site is built by GitHub Actions, not by installing or running Jekyll locally.
 
 - This public repository was recreated with clean history on 2026-06-18. Do not push from older local clones that still contain pre-reset history.
-- Do not add `CODX_HANDOFF.md` or other triage handoff notes to this public repository.
+- Keep `CODEX-HANDOFF.md` public-safe. Do not add private triage details,
+  private-only writing inventories, or private-repo content to this public
+  repository.
 - Goodreads homepage data is refreshed during the GitHub Pages workflow by `scripts/update_goodreads.rb`; `_data/goodreads.yml` is the committed fallback snapshot.
 - The homepage writing list is randomized during the GitHub Pages workflow by `scripts/update_featured_writing.rb`; `_data/featured_writing.yml` is the committed fallback snapshot.
 - Do not run `bundle install`, install Jekyll gems, or create local Bundler artifacts in this repository.
