@@ -330,6 +330,10 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
+.writing-section {
+  padding-top: 34px;
+}
+
 .goodreads-section {
   padding-top: 0;
 }

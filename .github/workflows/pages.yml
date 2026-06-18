@@ -30,6 +30,9 @@ jobs:
       - name: Refresh Goodreads data
         run: ruby scripts/update_goodreads.rb
 
+      - name: Randomize home writing
+        run: ruby scripts/update_featured_writing.rb
+
       - name: Validate content references
         run: ruby scripts/validate_content.rb
 

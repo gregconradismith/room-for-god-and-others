@@ -21,32 +21,22 @@ title: Home
   <a href="{{ '/quotes/' | relative_url }}">Quotations</a>
 </nav>
 
-<section class="home-section" aria-labelledby="recent-title">
-  <div class="section-heading">
-    <p class="eyebrow">Recently added</p>
-    <h2 id="recent-title">Writing</h2>
-  </div>
+<section class="home-section writing-section" aria-label="Featured writing">
   <div class="writing-list">
-    {% assign latest_essays = site.essays | sort: "date" | reverse %}
-    {% assign latest_poems = site.poems | sort: "date" | reverse %}
-    {% assign latest_aphorisms = site.aphorisms | sort: "date" | reverse %}
-    {% assign latest_quotes = site.quotes | sort: "date" | reverse %}
-    {% assign latest_blurbs = site.blurbs | sort: "date" | reverse %}
-    {% assign latest_items = latest_essays | concat: latest_poems | concat: latest_blurbs | concat: latest_aphorisms | concat: latest_quotes | sort: "date" | reverse %}
-    {% for item in latest_items limit: 6 %}
-      <article class="writing-item{% if item.image %} has-thumbnail{% endif %}">
+    {% for item in site.data.featured_writing.items %}
+      <article class="writing-item{% if item.image and item.image != "" %} has-thumbnail{% endif %}">
         <div>
-          <p class="item-type">{% if item.collection == "poems" %}Poem{% elsif item.collection == "aphorisms" %}Aphorism{% elsif item.collection == "quotes" %}Quotation{% elsif item.collection == "blurbs" %}Blurb{% elsif item.draft %}Draft Essay{% else %}Essay{% endif %}</p>
+          <p class="item-type">{{ item.type | escape }}</p>
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          {% if item.excerpt %}
+          {% if item.excerpt and item.excerpt != "" %}
             <p>{{ item.excerpt | strip_html | truncate: 170 | escape }}</p>
           {% endif %}
         </div>
-        {% if item.date %}
+        {% if item.date and item.date != "" %}
           <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %-d, %Y" }}</time>
         {% endif %}
-        {% if item.image %}
-          <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
+        {% if item.image and item.image != "" %}
+          <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position and item.image_position != "" %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
             <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
           </a>
         {% endif %}
