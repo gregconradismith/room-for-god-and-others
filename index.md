@@ -68,3 +68,25 @@ title: Home
     {% endfor %}
   </div>
 </section>
+
+<section class="home-section goodreads-section" aria-labelledby="goodreads-title">
+  <div class="section-heading">
+    <p class="eyebrow">Recent reading</p>
+    <h2 id="goodreads-title">Goodreads</h2>
+    <a class="section-link" href="{{ site.data.goodreads.profile_url }}">View profile</a>
+  </div>
+  <div class="goodreads-list">
+    {% for book in site.data.goodreads.books %}
+      <article class="goodreads-book">
+        <a class="goodreads-cover" href="{{ book.url }}" aria-label="Open {{ book.title | escape }} on Goodreads">
+          <img src="{{ book.image }}" alt="{{ book.title | escape }} cover">
+        </a>
+        <div>
+          <p class="item-type">{{ book.status }}</p>
+          <h3><a href="{{ book.url }}">{{ book.title | escape }}</a></h3>
+          <p>{{ book.author | escape }}{% if book.rating %} · {{ book.rating }}{% endif %}</p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
