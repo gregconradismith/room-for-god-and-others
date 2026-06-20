@@ -1,6 +1,6 @@
 # Codex Handoff
 
-Date: 2026-06-18
+Date: 2026-06-20
 
 Repo: `room-for-god-and-others`
 
@@ -27,6 +27,10 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - Read `AGENTS.md` before editing.
 - This public repository was recreated with clean public history on 2026-06-18.
   Do not push from older local clones that may still contain pre-reset history.
+- Three Greg Conradi Smith aphorisms were added or updated on 2026-06-20:
+  `faith-is-not-credulity.md`,
+  `god-is-not-honored-by-simplifying-truth.md`, and
+  `writing-is-the-act-of-telling-the-truth.md`.
 - Keep this repo public-safe. Do not copy private-only writing, private triage
   inventories, or sensitive material from the paired private repo into this
   public repo unless Greg explicitly asks.
