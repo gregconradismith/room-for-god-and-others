@@ -34,6 +34,10 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - Keep this repo public-safe. Do not copy private-only writing, private triage
   inventories, or sensitive material from the paired private repo into this
   public repo unless Greg explicitly asks.
+- The trigger phrase `publish from private: move [filename or title] to the
+  public site` means Greg has explicitly approved publishing the named item from
+  the paired private repo. Keep public notes public-safe, run
+  `ruby scripts/validate_content.rb`, then commit and push.
 - Do not install or run Jekyll/Bundler locally for this repo.
 - GitHub Actions builds and deploys the site from `main`.
 - `scripts/update_goodreads.rb` refreshes Goodreads data during the workflow;
