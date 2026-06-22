@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: Essays, poems, journal fragments, sayings, thoughts, and voices.
+description: Essays, poems, thoughts, sayings, and voices.
 ---
 
 I am a scientist, teacher, writer, Christian, reader, and person who has spent a lot of time trying to understand why those words do not always fit together easily.
