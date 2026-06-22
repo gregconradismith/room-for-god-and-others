@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blurbs
-permalink: /blurbs/
+title: Reflections
+permalink: /reflections/
 description: Short passages, fragments, sketches, and unplaced notes.
 ---
 

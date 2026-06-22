@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aphorisms
-permalink: /aphorisms/
+title: Sayings
+permalink: /sayings/
 description: Brief original sayings, fragments, and remembered formulations.
 ---
 

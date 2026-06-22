@@ -1,11 +1,20 @@
 ---
+
 layout: blurb
 title: "Every wind of teaching"
 date: 2026-04-27
 excerpt: "> Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their dec"
 image: "/assets/images/blurbs/every-wind-of-teaching.jpg"
-image_alt: "A personal doodle illustration selected for this blurb."
+image_alt: "A personal doodle illustration selected for this reflection."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Science
+  - Faith
+  - Christianity
+  - Communication
+  - Education
+  - Psychology
+  - Writing
 ---
 
 > Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. (Ephesians 4:14 NIV)

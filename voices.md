@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Quotations
-permalink: /quotes/
+title: Voices
+permalink: /voices/
 description: Gathered passages, fragments, and remembered lines.
 ---
 
 <div class="archive-tools">
-  <a class="section-link" href="{{ '/quote-of-the-day/' | relative_url }}">Quote of the day</a>
-  <a class="section-link" href="{{ '/quotes/feed.xml' | relative_url }}">RSS feed</a>
+  <a class="section-link" href="{{ '/voice-of-the-day/' | relative_url }}">Voice of the day</a>
+  <a class="section-link" href="{{ '/voices/feed.xml' | relative_url }}">RSS feed</a>
 </div>
 
 <div class="archive-list quote-list">

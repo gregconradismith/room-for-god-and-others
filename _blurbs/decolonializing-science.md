@@ -1,9 +1,15 @@
 ---
+
 layout: blurb
 title: "Decolonializing science"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "Science is a human practice before it is an institution of authority."
+categories:
+  - Science
+  - Human Flourishing
+  - Communication
+  - Writing
 ---
 
 Science is a human practice before it is an institution of authority.

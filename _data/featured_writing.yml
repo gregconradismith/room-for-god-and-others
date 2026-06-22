@@ -1,25 +1,25 @@
 ---
 updated: '2026-06-18'
 items:
-- type: Quotation
+- type: Voice
   title: Seeing Jesus
-  url: "/quotes/seeing-jesus/"
+  url: "/voices/seeing-jesus/"
   excerpt: Our first responsibility is to be revived ourselves, and to have a testimony
     that we have come to the end of our struggle and that we have found Jesus himself
     as all we need.
   date: '2026-04-27'
   image: "/assets/images/quotes/seeing-jesus.jpg"
-  image_alt: A personal doodle illustration selected for this quote.
+  image_alt: A personal doodle illustration selected for this voice.
   image_position: ''
-- type: Quotation
+- type: Voice
   title: Miroslav Krleza, On the Edge of Reason
-  url: "/quotes/miroslav-krleza-on-the-edge-of-reason/"
+  url: "/voices/miroslav-krleza-on-the-edge-of-reason/"
   excerpt: Had I not come to a turn in this account that could be described as a fatal
     one, according to a mysterious law of human folly, in all probability I would
     have spent my whole life o
   date: '2026-04-27'
   image: "/assets/images/quotes/miroslav-krleza-on-the-edge-of-reason.jpg"
-  image_alt: A personal doodle illustration selected for this quote.
+  image_alt: A personal doodle illustration selected for this voice.
   image_position: ''
 - type: Poem
   title: After Reading Dostoevsky
@@ -30,32 +30,32 @@ items:
   image_alt: Two shadowed figures at a table in a dim room, one confessing with open
     hands.
   image_position: ''
-- type: Quotation
+- type: Voice
   title: Czeslaw Milosz, The Captive Mind
-  url: "/quotes/czeslaw-milosz-the-captive-mind/"
+  url: "/voices/czeslaw-milosz-the-captive-mind/"
   excerpt: Who can gaze indifferently at the suffering of people whose only sin was
     that they blocked the path of historical processes? To lull his conscience he
     resorts to the thesis that a
   date: '2026-04-27'
   image: "/assets/images/quotes/czeslaw-milosz-the-captive-mind.jpg"
-  image_alt: A personal doodle illustration selected for this quote.
+  image_alt: A personal doodle illustration selected for this voice.
   image_position: ''
-- type: Quotation
+- type: Voice
   title: Proverbs 25:2
-  url: "/quotes/proverbs-25-2/"
+  url: "/voices/proverbs-25-2/"
   excerpt: It is the glory of God to conceal a matter; to search out a matter is the
     glory of kings.
   date: '2026-04-27'
   image: "/assets/images/quotes/proverbs-25-2.jpg"
-  image_alt: A personal doodle illustration selected for this quote.
+  image_alt: A personal doodle illustration selected for this voice.
   image_position: ''
-- type: Quotation
+- type: Voice
   title: Spiritual Growth
-  url: "/quotes/spiritual-growth/"
+  url: "/voices/spiritual-growth/"
   excerpt: Spiritual growth is the result of coming face to face with our own situation,
     feeling the brunt of our own puzzlement, recognizing no recipe will apply completely,
     and then trustin
   date: '2026-04-27'
   image: "/assets/images/quotes/spiritual-growth.jpg"
-  image_alt: A personal doodle illustration selected for this quote.
+  image_alt: A personal doodle illustration selected for this voice.
   image_position: ''

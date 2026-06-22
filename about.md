@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: Essays, poems, journal fragments, aphorisms, and quotations.
+description: Essays, poems, journal fragments, sayings, reflections, and voices.
 ---
 
 Room for God and Others is a home for essays, poems, and journal fragments written by Greg Conradi Smith.

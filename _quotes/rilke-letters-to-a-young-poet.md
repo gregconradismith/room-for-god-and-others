@@ -1,11 +1,19 @@
 ---
+
 layout: quote
 title: "Rilke, Letters to a Young Poet"
 date: 2026-04-27
 excerpt: "A work of art is good if it has arisen out of necessity. --Rilke."
 image: "/assets/images/quotes/rilke-letters-to-a-young-poet.jpg"
-image_alt: "A personal doodle illustration selected for this quote."
+image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Faith
+  - Human Flourishing
+  - Communication
+  - Writing
+  - Literature
+  - Creativity
 ---
 
 A work of art is good if it has arisen out of necessity. Of course, you must know that every letter of yours will always give me pleasure.

@@ -1,5 +1,5 @@
 title: "Room for God & Others"
-description: "Essays, poems, journal fragments, aphorisms, and quotations."
+description: "Essays, poems, journal fragments, sayings, reflections, and voices."
 url: "https://gregconradismith.github.io"
 baseurl: "/room-for-god-and-others"
 lang: en
@@ -25,13 +25,13 @@ collections:
     permalink: /poetry/:name/
   aphorisms:
     output: true
-    permalink: /aphorisms/:name/
+    permalink: /sayings/:name/
   quotes:
     output: true
-    permalink: /quotes/:name/
+    permalink: /voices/:name/
   blurbs:
     output: true
-    permalink: /blurbs/:name/
+    permalink: /reflections/:name/
 
 defaults:
   - scope:

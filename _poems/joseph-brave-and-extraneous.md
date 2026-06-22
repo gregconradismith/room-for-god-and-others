@@ -1,4 +1,5 @@
 ---
+
 layout: poem
 title: "Joseph, Brave and Extraneous"
 date: 2026-06-14
@@ -6,6 +7,12 @@ excerpt: "A poem beginning: “Bethlehem's Spring cradles”"
 image: /assets/images/poems/joseph-brave-and-extraneous.jpg
 image_alt: "Joseph carving a wooden rattle by lamplight while Mary rests with the infant Jesus."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Faith
+  - Christianity
+  - Psychology
+  - Creativity
+  - Literature
 ---
 
 <div class="verse">

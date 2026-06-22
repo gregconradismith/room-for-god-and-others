@@ -10,6 +10,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       {% if page.reading_time %}<span>{{ page.reading_time }}</span>{% endif %}
     </p>
+    {% include category-list.html item=page %}
     {% if page.draft_note %}
       <p class="draft-note">{{ page.draft_note | escape }}</p>
     {% endif %}

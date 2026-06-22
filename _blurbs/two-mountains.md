@@ -1,4 +1,5 @@
 ---
+
 layout: blurb
 title: "Two mountains"
 date: 2026-04-27
@@ -6,6 +7,12 @@ excerpt: "Four decades ago, with a friend and a notebook, I looked across quiet 
 image: "/assets/images/blurbs/two-mountains-turtle-shell.jpg"
 image_alt: "A turtle shell."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
+categories:
+  - Science
+  - Faith
+  - Communication
+  - Writing
+  - Education
 ---
 
 Four decades ago, with a friend and a notebook, I looked across quiet waters to an awe-inspiring peak. While my friend read *Jane Eyre*, I thought of Lyell’s *Principles of Geology*, the uniformity of natural law, and the vastness of geological time. I noted that eons of uplift and erosion had patiently manufactured this present panorama.

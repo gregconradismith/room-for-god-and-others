@@ -14,9 +14,9 @@ ITEM_LIMIT = 6
 COLLECTIONS = {
   "_essays" => { "label" => "Essay", "base" => "/essays", "use_title_permalink" => true },
   "_poems" => { "label" => "Poem", "base" => "/poetry" },
-  "_aphorisms" => { "label" => "Aphorism", "base" => "/aphorisms" },
-  "_blurbs" => { "label" => "Blurb", "base" => "/blurbs" },
-  "_quotes" => { "label" => "Quotation", "base" => "/quotes" }
+  "_aphorisms" => { "label" => "Saying", "base" => "/sayings" },
+  "_blurbs" => { "label" => "Reflection", "base" => "/reflections" },
+  "_quotes" => { "label" => "Voice", "base" => "/voices" }
 }.freeze
 
 def front_matter(path)

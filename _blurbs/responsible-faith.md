@@ -1,9 +1,16 @@
 ---
+
 layout: blurb
 title: "Responsible faith"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "A responsible faith does not fear questions that are asked in love of truth."
+categories:
+  - Faith
+  - Human Flourishing
+  - Communication
+  - Psychology
+  - Writing
 ---
 
 A responsible faith does not fear questions that are asked in love of truth.

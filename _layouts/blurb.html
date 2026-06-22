@@ -3,9 +3,10 @@ layout: default
 ---
 <article class="work blurb-work">
   <header class="work-header">
-    <a class="return-link" href="{{ '/blurbs/' | relative_url }}">Blurbs</a>
-    <p class="eyebrow">Blurb</p>
+    <a class="return-link" href="{{ '/reflections/' | relative_url }}">Reflections</a>
+    <p class="eyebrow">Reflection</p>
     <h1>{{ page.title | escape }}</h1>
+    {% include category-list.html item=page %}
     {% include feature-image.html %}
   </header>
   <div class="prose blurb-body">

@@ -1,0 +1,12 @@
+{% assign browser_text = include.item.title | append: " " | append: include.item.excerpt | append: " " | append: include.item.content | strip_html | normalize_whitespace %}
+<article class="browser-item"
+  data-browser-item
+  data-search="{{ browser_text | escape }}"
+  data-categories="{{ include.item.categories | join: '|' | escape }}">
+  <p class="item-type">{{ include.type | escape }}</p>
+  <h3><a href="{{ include.item.url | relative_url }}">{{ include.item.title | escape }}</a></h3>
+  {% include category-list.html item=include.item %}
+  {% if include.item.excerpt %}
+    <p>{{ include.item.excerpt | strip_html | truncate: 165 | escape }}</p>
+  {% endif %}
+</article>

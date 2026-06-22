@@ -1,11 +1,20 @@
 ---
+
 layout: blurb
 title: "I have been enjoying Timothy Snyder’s YouTube"
 date: 2026-04-27
 excerpt: "I have been enjoying Timothy Snyder’s YouTube videos. In one of them, he introduced the term “totalitarianism” to a discussion of populism, oligarchy, and authoritarianism. His def"
 image: "/assets/images/blurbs/i-have-been-enjoying-timothy-snyders-youtube.jpg"
-image_alt: "A personal doodle illustration selected for this blurb."
+image_alt: "A personal doodle illustration selected for this reflection."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Faith
+  - Human Flourishing
+  - Literature
+  - Politics
+  - Education
+  - Writing
+  - Communication
 ---
 
 I have been enjoying Timothy Snyder’s YouTube videos. In one of them, he introduced the term “totalitarianism” to a discussion of populism, oligarchy, and authoritarianism. His definition of totalitarianism focused on loss of private life. He said he follows Hannah Arendt’s usage. “Totalitarian regimes seek to dominate every aspect of everyone’s life as a prelude to world domination.”[^1] In a totalitarian society all of one’s actions are public. Private life may also be overwhelmed in lesser ways, as in the sentence “politics is a totalizing profession.”

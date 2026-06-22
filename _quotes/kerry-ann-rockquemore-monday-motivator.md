@@ -1,11 +1,15 @@
 ---
+
 layout: quote
 title: "Kerry Ann Rockquemore, Monday Motivator"
 date: 2026-04-27
 excerpt: "Most importantly, we must develop our own internal system of value, measures of quality, and definition of success."
 image: "/assets/images/quotes/kerry-ann-rockquemore-monday-motivator.jpg"
-image_alt: "A personal doodle illustration selected for this quote."
+image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Education
+  - Literature
 ---
 
 Most importantly, we must develop our own internal system of value, measures of quality, and definition of success.

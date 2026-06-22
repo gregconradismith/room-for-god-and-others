@@ -6,7 +6,7 @@
     <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}?v={{ site.css_version | default: 1 }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }} quotations feed" href="{{ '/quotes/feed.xml' | absolute_url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }} voices feed" href="{{ '/voices/feed.xml' | absolute_url }}">
     {% seo title=false %}
     {% include analytics.html %}
   </head>
@@ -20,5 +20,6 @@
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | escape }}. Room for God &amp; Others. All rights reserved.</p>
     </footer>
     <script defer src="{{ '/assets/js/site-feedback.js' | relative_url }}?v={{ site.css_version | default: 1 }}"></script>
+    <script defer src="{{ '/assets/js/writing-browser.js' | relative_url }}?v={{ site.css_version | default: 1 }}"></script>
   </body>
 </html>

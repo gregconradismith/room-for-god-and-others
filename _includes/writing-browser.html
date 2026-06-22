@@ -1,0 +1,53 @@
+<section class="home-section writing-browser" aria-labelledby="writing-browser-title" data-writing-browser>
+  <div class="section-heading">
+    <p class="eyebrow">Find writing</p>
+    <h2 id="writing-browser-title">Search</h2>
+  </div>
+
+  <div class="browser-controls">
+    <label class="browser-search">
+      <span>Search</span>
+      <input type="search" data-browser-search placeholder="essays, poetry, sayings, reflections, voices">
+    </label>
+    <div class="browser-category">
+      <button class="category-toggle" type="button" aria-expanded="false" data-category-toggle>Category</button>
+      <div class="category-panel-menu" hidden data-category-panel>
+        {% for category in site.data.writing_categories %}
+          <label>
+            <input type="checkbox" value="{{ category | escape }}" data-category-filter>
+            <span>{{ category | escape }}</span>
+          </label>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <p class="browser-status" data-browser-status>Search all writing or choose a category.</p>
+
+  <div class="browser-results" data-browser-results>
+    {% assign browser_essays = site.essays | sort: "date" | reverse %}
+    {% for item in browser_essays %}
+      {% include writing-browser-item.html item=item type="Essay" %}
+    {% endfor %}
+
+    {% assign browser_poems = site.poems | sort: "date" | reverse %}
+    {% for item in browser_poems %}
+      {% include writing-browser-item.html item=item type="Poetry" %}
+    {% endfor %}
+
+    {% assign browser_sayings = site.aphorisms | sort: "title" %}
+    {% for item in browser_sayings %}
+      {% include writing-browser-item.html item=item type="Saying" %}
+    {% endfor %}
+
+    {% assign browser_reflections = site.blurbs | sort: "title" %}
+    {% for item in browser_reflections %}
+      {% include writing-browser-item.html item=item type="Reflection" %}
+    {% endfor %}
+
+    {% assign browser_voices = site.quotes | sort: "title" %}
+    {% for item in browser_voices %}
+      {% include writing-browser-item.html item=item type="Voice" %}
+    {% endfor %}
+  </div>
+</section>

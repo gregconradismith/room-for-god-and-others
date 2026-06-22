@@ -6,10 +6,12 @@ Repo: `room-for-god-and-others`
 
 Branch: `main`
 
-Current Git status after the 2026-06-21 migration readiness fetch and before this handoff edit:
+Current Git status after the 2026-06-21 navigation/category/search update:
 
 ```bash
 ## main...origin/main
+Renamed archive pages and updated category metadata across the public content
+collections. Run `git status --short` for the full file list.
 ```
 
 ## Repository Role
@@ -19,7 +21,7 @@ site:
 
 https://gregconradismith.github.io/room-for-god-and-others/
 
-It contains public essays, poems, blurbs, aphorisms, favorite quotations, shared
+It contains public essays, poems, reflections, sayings, favorite voices, shared
 pages, images, and small Ruby helper scripts for the Pages workflow.
 
 ## High-Value Context
@@ -27,7 +29,7 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - Read `AGENTS.md` before editing.
 - This public repository was recreated with clean public history on 2026-06-18.
   Do not push from older local clones that may still contain pre-reset history.
-- Three Greg Conradi Smith aphorisms were added or updated on 2026-06-20:
+- Three Greg Conradi Smith sayings were added or updated on 2026-06-20:
   `faith-is-not-credulity.md`,
   `god-is-not-honored-by-simplifying-truth.md`, and
   `writing-is-the-act-of-telling-the-truth.md`.
@@ -45,6 +47,14 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - `scripts/update_featured_writing.rb` randomizes the homepage writing list
   during the workflow; `_data/featured_writing.yml` is the committed fallback
   snapshot.
+- On 2026-06-21, public labels and URLs were changed from
+  Aphorisms/Blurbs/Quotations to Sayings/Reflections/Voices. The internal
+  collection keys and existing asset folders remain `_aphorisms`, `_blurbs`,
+  `_quotes`, `assets/images/quotes`, and `assets/images/blurbs`.
+- The homepage now includes a search and category filter browser. Browser
+  result order is essays, poetry, sayings, reflections, voices.
+- Topic categories live in `_data/writing_categories.yml`; content items have
+  multi-valued `categories:` front matter for filtering.
 - `scripts/validate_content.rb` checks YAML front matter and image references.
 
 ## Useful Commands
@@ -87,5 +97,7 @@ Pre-edit Git state after fetch:
   Jekyll/Bundler artifacts.
 - To validate deployment, push to `main` and inspect the GitHub Actions
   Pages/Jekyll workflow run.
+- Do not run a local Jekyll build unless Greg explicitly asks; this repo is
+  intended to build through GitHub Actions.
 - After adding or updating `AGENTS.md` / `.codex/handoff.md`, commit the scoped
   change and push it to `main`.

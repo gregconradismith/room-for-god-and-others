@@ -10,6 +10,7 @@
     {% if include.show_draft and item.draft %}
       <p class="item-type">Draft Essay</p>
     {% endif %}
+    {% include category-list.html item=item %}
     {% unless include.show_excerpt == false %}
       {% if item.excerpt %}
         <p>{{ item.excerpt | strip_html | truncate: include.excerpt_length | escape }}</p>

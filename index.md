@@ -7,7 +7,7 @@ title: Home
   <div class="hero-copy">
     <p class="eyebrow">The desire to understand will serve you well</p>
     <h1 id="home-title">Room for God &amp; Others</h1>
-    <p>Creative writing: essays, poems, journal fragments, aphorisms, and quotations.</p>
+    <p>Creative writing: essays, poems, journal fragments, sayings, reflections, and voices.</p>
   </div>
   <img class="hero-mark" src="{{ '/assets/images/g-symbol-bw.png' | relative_url }}" alt="" aria-hidden="true">
 </section>
@@ -16,13 +16,15 @@ title: Home
   <a href="{{ '/about/' | relative_url }}">About</a>
   <a href="{{ '/essays/' | relative_url }}">Essays</a>
   <a href="{{ '/poetry/' | relative_url }}">Poetry</a>
-  <a href="{{ '/aphorisms/' | relative_url }}">Aphorisms</a>
-  <a href="{{ '/blurbs/' | relative_url }}">Blurbs</a>
-  <a href="{{ '/quotes/' | relative_url }}">Quotations</a>
+  <a href="{{ '/sayings/' | relative_url }}">Sayings</a>
+  <a href="{{ '/reflections/' | relative_url }}">Reflections</a>
+  <a href="{{ '/voices/' | relative_url }}">Voices</a>
 </nav>
 
-<section class="home-section daily-quote-section" aria-label="Quote of the day">
-  {% include daily-quote.html compact=true heading="Quote of the day" %}
+{% include writing-browser.html %}
+
+<section class="home-section daily-quote-section" aria-label="Voice of the day">
+  {% include daily-quote.html compact=true heading="Voice of the day" %}
 </section>
 
 <section class="home-section writing-section" aria-label="Featured writing">

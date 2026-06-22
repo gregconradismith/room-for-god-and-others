@@ -11,7 +11,7 @@
   {% endfor %}
 
   <article class="daily-quote{% if include.compact %} daily-quote-compact{% endif %}">
-    <p class="eyebrow">{{ include.heading | default: "Quote of the day" | escape }}</p>
+    <p class="eyebrow">{{ include.heading | default: "Voice of the day" | escape }}</p>
     <h2><a href="{{ quote_of_day.url | relative_url }}">{{ quote_of_day.title | escape }}</a></h2>
     {% if include.compact %}
       <p>{{ quote_of_day.excerpt | default: quote_of_day.content | strip_html | normalize_whitespace | truncate: 280 | escape }}</p>
@@ -21,8 +21,8 @@
       </div>
     {% endif %}
     <div class="daily-quote-actions">
-      <a class="section-link" href="{{ quote_of_day.url | relative_url }}">Open quotation</a>
-      <a class="section-link" href="{{ '/quotes/feed.xml' | relative_url }}">RSS feed</a>
+      <a class="section-link" href="{{ quote_of_day.url | relative_url }}">Open voice</a>
+      <a class="section-link" href="{{ '/voices/feed.xml' | relative_url }}">RSS feed</a>
     </div>
   </article>
 {% endif %}

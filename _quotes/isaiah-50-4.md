@@ -1,11 +1,17 @@
 ---
+
 layout: quote
 title: "Isaiah 50:4"
 date: 2026-04-27
 excerpt: "The Lord God has given me the tongue of those who are taught, that I may know how to sustain with a word him who is weary."
 image: "/assets/images/quotes/isaiah-50-4.jpg"
-image_alt: "A personal doodle illustration selected for this quote."
+image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Faith
+  - Christianity
+  - Communication
+  - Literature
 ---
 
 The Lord God has given me the tongue of those who are taught, that I may know how to sustain with a word him who is weary.

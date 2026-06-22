@@ -1,4 +1,5 @@
 ---
+
 layout: poem
 title: "Sheri"
 date: 2026-06-14
@@ -6,6 +7,9 @@ excerpt: "A poem beginning: “What fills this doll who walks with me?”"
 image: /assets/images/poems/sheri.jpg
 image_alt: "A worn cloth doll opening into a luminous forest home."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Literature
+  - Creativity
 ---
 
 <div class="verse">

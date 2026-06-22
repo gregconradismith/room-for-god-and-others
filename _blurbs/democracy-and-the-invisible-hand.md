@@ -1,11 +1,17 @@
 ---
+
 layout: blurb
 title: "Democracy and the invisible hand"
 date: 2026-04-27
 excerpt: "Can we really expect democracy to work when so many people are not even trying?"
 image: "/assets/images/blurbs/democracy-and-the-invisible-hand.jpg"
-image_alt: "A personal doodle illustration selected for this blurb."
+image_alt: "A personal doodle illustration selected for this reflection."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Human Flourishing
+  - Communication
+  - Politics
+  - Writing
 ---
 
 Can we really expect democracy to work when so many people are “not even trying”? What “system” is able to protect us from the ruthless and selfish elements? What “system” can work when such a large fraction of the elements are simply in it for their own gain?
