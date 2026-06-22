@@ -6,6 +6,8 @@ excerpt: "Looking back on that conversation today, I cannot help but wonder whet
 image: "/assets/images/quotes/ronald-beiner.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 Looking back on that conversation today, I cannot help but wonder whether my more hopeful view of the discipline and its intellectual achievements was just a conceit of youth, and whether it can survive more rigorous critical scrutiny at a later stage of life.
 

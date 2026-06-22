@@ -6,6 +6,8 @@ excerpt: "A poem remembering Mandi and the strange mercy of reunion."
 image: /assets/images/poems/for-mandi-who-loves-tennis.jpg
 image_alt: "A luminous hospital room where a woman strings a tennis racquet beside an empty bed."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 I taught tennis in high school

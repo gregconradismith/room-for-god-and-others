@@ -6,6 +6,8 @@ excerpt: "The patterns are always the same: the great socialist revolution consi
 image: "/assets/images/quotes/leszek-kolakowski.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 The patterns are always the same: the great socialist revolution consists, first of all, in giving us privileges, titles and power for our political opinions and in destroying the old reactionary academic values like knowledge and logical abilities...
 

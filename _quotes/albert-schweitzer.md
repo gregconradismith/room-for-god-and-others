@@ -6,6 +6,8 @@ excerpt: "With the spirit of the age I am in complete disagreement, because it i
 image: "/assets/images/quotes/albert-schweitzer.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 With the spirit of the age I am in complete disagreement, because it is filled with a disdain for thinking.
 

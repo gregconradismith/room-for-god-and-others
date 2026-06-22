@@ -6,6 +6,8 @@ excerpt: "A poem beginning: “What fills this doll who walks with me?”"
 image: /assets/images/poems/sheri.jpg
 image_alt: "A worn cloth doll opening into a luminous forest home."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 What fills this doll who walks with me?

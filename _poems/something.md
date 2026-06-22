@@ -6,6 +6,8 @@ excerpt: "A poem beginning: “Something is more than Nothing.”"
 image: /assets/images/poems/something.jpg
 image_alt: "A glowing small object surrounded by dark empty space and chalk-like shapes."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 Something is more than Nothing.

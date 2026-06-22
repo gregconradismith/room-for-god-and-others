@@ -6,6 +6,8 @@ excerpt: "If you cannot be a poet, be the poem."
 image: "/assets/images/quotes/david-carradine-backlit-agate-slice.jpg"
 image_alt: "A backlit agate slice."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 If you cannot be a poet, be the poem.
 

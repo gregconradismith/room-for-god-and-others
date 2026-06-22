@@ -6,6 +6,8 @@ excerpt: "To doubt everything or to believe everything are equally good solution
 image: "/assets/images/quotes/poincare.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 To doubt everything or to believe everything are equally good solutions–both dispense with the necessity of reflection.
 

@@ -9,6 +9,8 @@ excerpt: "Generative AI systems imitate human dialogue, creating the illusion of
 image: /assets/images/essays/illusion-of-personhood-generative-ai-and-simulated-communication.jpg
 image_alt: "An empty chair facing a glowing screen with an ambiguous human-like reflection."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Essays
 ---
 AI takes different forms. Artificial general intelligence (AGI) refers to computational tools capable of general-purpose reasoning. AGI research is as ambitious and speculative as efforts to build quantum computers.
 

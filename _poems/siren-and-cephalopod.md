@@ -7,6 +7,8 @@ image: /assets/images/poems/siren-and-cephalopod.jpg
 image_alt: "A storm-dark shore with shipwreck debris, a distant siren silhouette, and hidden tentacles under water."
 image_credit: "Photo by Panos Lambis"
 image_credit_url: "http://www.palap.co.uk/"
+categories:
+  - Poetry
 ---
 <p class="poem-note">(After reading Philip Larkin's <em>Mythical Introduction</em>)</p>
 

@@ -6,6 +6,8 @@ excerpt: "One reason is that the mother herself is so impoverished and needy tha
 image: "/assets/images/quotes/charles-whitfield-healing-the-child-within.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 One reason is that the mother herself is so impoverished and needy that she uses her infant to satisfy her own unmet needs.
 

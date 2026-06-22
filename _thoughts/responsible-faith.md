@@ -4,6 +4,8 @@ title: "Responsible faith"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "A responsible faith does not fear questions that are asked in love of truth."
+categories:
+  - Thoughts
 ---
 A responsible faith does not fear questions that are asked in love of truth.
 

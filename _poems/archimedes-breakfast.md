@@ -6,6 +6,8 @@ excerpt: "A poem beginning: “When Archimedes ate his Wheaties”"
 image: /assets/images/poems/archimedes-breakfast.jpg
 image_alt: "An Archimedes-like figure studying floating cereal beside a bath."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 When Archimedes ate his Wheaties

@@ -6,6 +6,8 @@ excerpt: "Men believe themselves to be free, simply because they are conscious o
 image: "/assets/images/quotes/baruch-spinoza.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 Men believe themselves to be free, simply because they are conscious of their actions, and unconscious of the causes whereby those actions are determined.
 

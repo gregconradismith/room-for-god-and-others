@@ -6,6 +6,8 @@ excerpt: "What a man desires is unfailing love."
 image: "/assets/images/quotes/proverbs-19-2123.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 What a man desires is unfailing love.
 

@@ -9,6 +9,8 @@ excerpt: "A personal essay on science, faith, evangelical identity, and the diff
 image: /assets/images/essays/why-i-am-perhaps-not-an-evangelical.jpg
 image_alt: "Two young cyclists seated by a mountain lake, seeing the same mountain differently."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Essays
 ---
 I have always loved science and math. I have a vivid memory of a motoneuron with a myelinated axon that wound back and forth across the centerfold page of a beloved childhood science book. I was an avid reader of Martin Gardiner’s “Mathematical Recreations” column in *Scientific American*. My favorite authors were Carl Sagan, the astrophysicist, and Stephen J. Gould, the evolutionary biologist. In first grade, while building a model rocket, I cut my thumb with an exacto-knife razor blade. My mother says that I cried, not because of the pain, but because “I couldn’t see my cells."
 

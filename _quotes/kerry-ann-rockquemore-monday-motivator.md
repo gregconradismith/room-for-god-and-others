@@ -6,6 +6,8 @@ excerpt: "Most importantly, we must develop our own internal system of value, me
 image: "/assets/images/quotes/kerry-ann-rockquemore-monday-motivator.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 Most importantly, we must develop our own internal system of value, measures of quality, and definition of success.
 

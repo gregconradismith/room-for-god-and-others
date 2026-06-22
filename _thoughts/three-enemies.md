@@ -4,6 +4,8 @@ title: "Three enemies"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "Confusion, fear, and pride are not just obstacles to thought; they are obstacles to love."
+categories:
+  - Thoughts
 ---
 Confusion, fear, and pride are not just obstacles to thought.
 

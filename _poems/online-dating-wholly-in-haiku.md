@@ -6,6 +6,8 @@ excerpt: "A poem beginning: “HER”"
 image: /assets/images/poems/online-dating-wholly-in-haiku.jpg
 image_alt: "A desk with an abstract laptop profile, microphone, music, and blank haiku slips."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 HER:

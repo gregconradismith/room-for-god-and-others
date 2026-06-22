@@ -6,6 +6,8 @@ excerpt: "A work of art is good if it has arisen out of necessity. --Rilke."
 image: "/assets/images/quotes/rilke-letters-to-a-young-poet.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 A work of art is good if it has arisen out of necessity. Of course, you must know that every letter of yours will always give me pleasure.
 

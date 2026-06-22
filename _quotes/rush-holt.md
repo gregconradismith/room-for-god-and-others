@@ -4,6 +4,8 @@ title: "Rush Holt"
 date: 2026-04-27
 source: "Rush Holt"
 excerpt: "This election is said to have been about rejecting the political establishment. We cannot let that mean rejecting established facts."
+categories:
+  - Voices
 ---
 This election is said to have been about rejecting the political establishment. We cannot let that mean rejecting established facts.
 

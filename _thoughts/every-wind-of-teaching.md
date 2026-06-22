@@ -6,6 +6,8 @@ excerpt: "> Then we will no longer be infants, tossed back and forth by the wave
 image: "/assets/images/thoughts/every-wind-of-teaching.jpg"
 image_alt: "A personal doodle illustration selected for this thought."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Thoughts
 ---
 > Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. (Ephesians 4:14 NIV)
 

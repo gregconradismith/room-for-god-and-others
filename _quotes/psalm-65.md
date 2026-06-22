@@ -6,6 +6,8 @@ excerpt: "Praise awaits you, our God, in Zion; to you our vows will be fulfilled
 image: "/assets/images/quotes/psalm-65.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 Praise awaits you, our God, in Zion; to you our vows will be fulfilled.
 

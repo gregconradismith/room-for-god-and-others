@@ -6,6 +6,8 @@ excerpt: "\"Most rules lie, yet lies are less shocking, less corrosive than the 
 image: "/assets/images/quotes/gabriel-chevallier-fear.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 "Most rules lie, yet lies are less shocking, less corrosive than the chosen, cultivated ignorance that Chevallier addresses here.
 

@@ -6,6 +6,8 @@ excerpt: "Who can gaze indifferently at the suffering of people whose only sin w
 image: "/assets/images/quotes/czeslaw-milosz-the-captive-mind.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 Who can gaze indifferently at the suffering of people whose only sin was that they blocked the path of historical processes? To lull his conscience he resorts to the thesis that a reactionary cannot be a good man.
 

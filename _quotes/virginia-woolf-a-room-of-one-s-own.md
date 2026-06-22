@@ -6,6 +6,8 @@ excerpt: "Imaginatively she is of the highest significance, practically she is c
 image: "/assets/images/quotes/virginia-woolf-a-room-of-one-s-own.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Voices
 ---
 Imaginatively she is of the highest significance, practically she is completely insignificant.
 

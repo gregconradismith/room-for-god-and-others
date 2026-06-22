@@ -6,6 +6,8 @@ excerpt: "The Lord God has given me the tongue of those who are taught, that I m
 image: "/assets/images/quotes/isaiah-50-4.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 The Lord God has given me the tongue of those who are taught, that I may know how to sustain with a word him who is weary.
 

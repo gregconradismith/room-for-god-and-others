@@ -6,6 +6,8 @@ excerpt: "The best work is the work you are excited about."
 image: "/assets/images/quotes/rick-rubin.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 The best work is the work you are excited about.
 

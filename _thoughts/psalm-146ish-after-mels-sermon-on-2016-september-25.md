@@ -6,6 +6,8 @@ excerpt: "Do not trust in presidents and ideologies, traditions and institutions
 image: "/assets/images/thoughts/psalm-146ish-after-mels-sermon-on-2016-september-25.jpg"
 image_alt: "A personal doodle illustration selected for this thought."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Thoughts
 ---
 Do not trust in presidents and ideologies, traditions and institutions, creativity, ingenuity or goodwill. No human being or organization can truly liberate and heal. These cannot offer pardon and release, not really, and someday you may require forgiveness to carry on.
 

@@ -6,6 +6,8 @@ excerpt: "The place God calls you to is the place where your deep gladness and t
 image: "/assets/images/quotes/frederick-buechner-2.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Voices
 ---
 The place God calls you to is the place where your deep gladness and the world's hunger meet.
 

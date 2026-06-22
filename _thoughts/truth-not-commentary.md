@@ -6,6 +6,8 @@ excerpt: "> God gave me my writing so that I might tell the truth. But the world
 image: "/assets/images/thoughts/truth-not-commentary.jpg"
 image_alt: "A personal doodle illustration selected for this thought."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+categories:
+  - Thoughts
 ---
 > God gave me my writing so that I might tell the truth.
 

@@ -6,6 +6,8 @@ excerpt: "A poem beginning: “Melinda Miller, inward bound,”"
 image: /assets/images/poems/inward-bound.jpg
 image_alt: "A circular woodland path with an empty center and walnuts gathered nearby."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
+categories:
+  - Poetry
 ---
 <div class="verse">
 Melinda Miller, inward bound,

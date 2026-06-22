@@ -4,6 +4,8 @@ title: "Institute of humanity"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "An institute of humanity would take persons, not products, as the proper unit of concern."
+categories:
+  - Thoughts
 ---
 An institute of humanity would take persons, not products, as the proper unit of concern.
 

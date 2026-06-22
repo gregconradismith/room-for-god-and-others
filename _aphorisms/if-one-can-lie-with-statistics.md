@@ -7,6 +7,8 @@ excerpt: "If one can lie with statistics, just imagine the possibilities for dat
 image: "/assets/images/quotes/if-one-can-lie-with-statistics.jpg"
 image_alt: "A personal doodle illustration selected for this saying."
 image_credit: "Drawing by Greg Conrad Smith, 2026."
+categories:
+  - Sayings
 ---
 If one can lie with statistics, just imagine the possibilities for data science.
 
