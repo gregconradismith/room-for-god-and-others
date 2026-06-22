@@ -1,17 +1,17 @@
 # Codex Handoff
 
-Date: 2026-06-21
+Date: 2026-06-22
 
 Repo: `room-for-god-and-others`
 
 Branch: `main`
 
-Current Git status after the 2026-06-21 navigation/category/search update:
+Current Git status after the 2026-06-22 homepage hero image update:
 
 ```bash
 ## main...origin/main
-Renamed archive pages and updated category metadata across the public content
-collections. Run `git status --short` for the full file list.
+Replaced `assets/images/reading-room.png` with a generated wide-format reading
+room hero background. Run `git status --short` for the full file list.
 ```
 
 ## Repository Role
@@ -59,6 +59,10 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - Topic categories live in `_data/writing_categories.yml`; content items have
   multi-valued `categories:` front matter for filtering.
 - `scripts/validate_content.rb` checks YAML front matter and image references.
+- On 2026-06-22, the homepage hero background image at
+  `assets/images/reading-room.png` was replaced with a generated literary
+  reading-room illustration. `ruby scripts/validate_content.rb` passed after
+  the asset replacement.
 
 ## Useful Commands
 
