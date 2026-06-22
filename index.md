@@ -5,9 +5,8 @@ title: Home
 
 <section class="hero" aria-labelledby="home-title">
   <div class="hero-copy">
-    <p class="eyebrow">The desire to understand will serve you well</p>
     <h1 id="home-title">Room for God &amp; Others</h1>
-    <p>Creative writing: essays, poems, journal fragments, sayings, reflections, and voices.</p>
+    <p>Greg Conradi Smith</p>
   </div>
   <img class="hero-mark" src="{{ '/assets/images/g-symbol-bw.png' | relative_url }}" alt="" aria-hidden="true">
 </section>
