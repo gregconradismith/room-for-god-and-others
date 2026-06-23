@@ -4,7 +4,7 @@ title: "Writing is the act of telling the truth"
 date: 2026-06-20
 source: "Greg Conradi Smith"
 excerpt: "For me, writing is the act of telling the truth."
-image: "/assets/images/aphorisms/writing-is-the-act-of-telling-the-truth.jpg"
+image: "/assets/images/sayings/writing-is-the-act-of-telling-the-truth.jpg"
 image_alt: "A backlit agate slice showing layered bands of dark and pale stone."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:

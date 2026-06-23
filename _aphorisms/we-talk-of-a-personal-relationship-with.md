@@ -4,7 +4,7 @@ title: "We talk of a personal relationship with"
 date: 2026-06-21
 source: "Greg Conradi Smith"
 excerpt: "We talk of a personal relationship with God."
-image: "/assets/images/aphorisms/we-talk-of-a-personal-relationship-with.jpg"
+image: "/assets/images/sayings/we-talk-of-a-personal-relationship-with.jpg"
 image_alt: "Alpine wildflowers blooming in a mountain meadow."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
