@@ -307,7 +307,7 @@ h3 {
   display: grid;
   gap: clamp(2rem, 4vw, 3.5rem);
   grid-template-columns: minmax(18ch, 24ch) minmax(0, var(--measure));
-  inline-size: min(100%, calc(92ch + clamp(2rem, 4vw, 3.5rem)));
+  justify-content: center;
 }
 
 .page {
@@ -798,10 +798,6 @@ h3 {
   height: auto;
   object-position: 50% 50%;
   width: 100%;
-}
-
-.work {
-  max-width: none;
 }
 
 .work-header {
