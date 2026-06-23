@@ -603,17 +603,28 @@ h3 {
 }
 
 .writing-item {
-  align-items: baseline;
+  align-items: start;
   border-bottom: 1px solid var(--line);
   display: grid;
   gap: 22px;
-  grid-template-columns: minmax(0, 1fr) 110px;
+  grid-template-columns: minmax(170px, 0.42fr) minmax(0, 1fr);
   padding: 18px 0;
 }
 
 .writing-item.has-thumbnail {
-  align-items: start;
-  grid-template-columns: minmax(0, 1fr) 110px 132px;
+  grid-template-columns: minmax(186px, 0.42fr) minmax(0, 1fr);
+}
+
+.writing-item-media,
+.archive-item-media {
+  display: grid;
+  gap: 10px;
+  min-width: 0;
+}
+
+.writing-item-summary,
+.archive-item-summary {
+  min-width: 0;
 }
 
 .writing-item h2,
@@ -678,12 +689,12 @@ h3 {
   border-bottom: 1px solid var(--line);
   display: grid;
   gap: 20px;
-  grid-template-columns: 96px minmax(0, 1fr);
+  grid-template-columns: minmax(188px, 0.36fr) minmax(0, 1fr);
   padding: 18px 0 17px;
 }
 
 .archive-item.has-thumbnail {
-  grid-template-columns: 96px minmax(0, 1fr) 176px;
+  grid-template-columns: minmax(206px, 0.36fr) minmax(0, 1fr);
 }
 
 .archive-item h2 {
@@ -701,8 +712,7 @@ h3 {
 }
 
 .poem-archive-item.has-thumbnail {
-  align-items: start;
-  grid-template-columns: minmax(0, 1fr) 176px;
+  grid-template-columns: minmax(206px, 0.36fr) minmax(0, 1fr);
 }
 
 .archive-thumbnail,
@@ -716,11 +726,11 @@ h3 {
 
 .archive-thumbnail,
 .poem-thumbnail {
-  width: 176px;
+  width: min(100%, 176px);
 }
 
 .writing-thumbnail {
-  width: 132px;
+  width: min(100%, 132px);
 }
 
 .archive-thumbnail img,
@@ -901,12 +911,12 @@ h3 {
 
 .quote-item,
 .thought-item {
-  grid-template-columns: 52px minmax(0, 1fr);
+  grid-template-columns: minmax(188px, 0.36fr) minmax(0, 1fr);
 }
 
 .quote-item.has-thumbnail,
 .thought-item.has-thumbnail {
-  grid-template-columns: 52px minmax(0, 1fr) 176px;
+  grid-template-columns: minmax(206px, 0.36fr) minmax(0, 1fr);
 }
 
 .quote-mark {
@@ -1093,13 +1103,11 @@ figcaption {
     grid-column: auto;
   }
 
-  .archive-item.has-thumbnail {
-    grid-template-columns: 96px minmax(0, 1fr) 152px;
-  }
-
+  .archive-item.has-thumbnail,
   .quote-item.has-thumbnail,
-  .thought-item.has-thumbnail {
-    grid-template-columns: 52px minmax(0, 1fr) 152px;
+  .thought-item.has-thumbnail,
+  .poem-archive-item.has-thumbnail {
+    grid-template-columns: minmax(176px, 0.38fr) minmax(0, 1fr);
   }
 
   .work-header {
@@ -1135,8 +1143,7 @@ figcaption {
   }
 
   .poem-archive-item.has-thumbnail {
-    align-items: start;
-    grid-template-columns: minmax(0, 1fr) 152px;
+    grid-template-columns: 1fr;
   }
 
   .section-heading {
@@ -1158,13 +1165,10 @@ figcaption {
     border-left: 0;
   }
 
-  .writing-item time,
-  .archive-item time {
-    order: -1;
-  }
-
-  .poem-archive-item.has-thumbnail time {
-    grid-column: 1 / -1;
+  .archive-thumbnail,
+  .poem-thumbnail,
+  .writing-thumbnail {
+    width: min(100%, 176px);
   }
 
   .archive-thumbnail,

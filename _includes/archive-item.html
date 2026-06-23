@@ -1,25 +1,29 @@
 {% assign item = include.item %}
 <article class="archive-item{% if include.extra_class %} {{ include.extra_class }}{% endif %}{% if item.image %} has-thumbnail{% endif %}">
-  {% if include.show_date %}
-    <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: include.date_format }}</time>
-  {% elsif include.mark %}
-    <span class="quote-mark">{{ include.mark }}</span>
-  {% endif %}
-  <div>
+  <div class="archive-item-media">
+    {% if include.show_date %}
+      <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: include.date_format }}</time>
+    {% elsif include.mark %}
+      <span class="quote-mark">{{ include.mark }}</span>
+    {% endif %}
     <h2><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h2>
     {% if include.show_draft and item.draft %}
       <p class="item-type">Draft Essay</p>
     {% endif %}
-    {% include category-list.html item=item %}
-    {% unless include.show_excerpt == false %}
-      {% if item.excerpt %}
-        <p>{{ item.excerpt | strip_html | truncate: include.excerpt_length | escape }}</p>
-      {% endif %}
-    {% endunless %}
+    {% if item.image %}
+      <a class="{{ include.thumbnail_class | default: 'archive-thumbnail' }}" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
+        <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
+      </a>
+    {% endif %}
   </div>
-  {% if item.image %}
-    <a class="{{ include.thumbnail_class | default: 'archive-thumbnail' }}" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
-      <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
-    </a>
-  {% endif %}
+  {% unless include.show_excerpt == false and item.categories == nil %}
+    <div class="archive-item-summary">
+      {% include category-list.html item=item %}
+      {% unless include.show_excerpt == false %}
+        {% if item.excerpt %}
+          <p>{{ item.excerpt | strip_html | truncate: include.excerpt_length | escape }}</p>
+        {% endif %}
+      {% endunless %}
+    </div>
+  {% endunless %}
 </article>

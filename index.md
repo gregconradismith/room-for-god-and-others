@@ -22,21 +22,23 @@ title: Home
   <div class="writing-list">
     {% for item in site.data.featured_writing.items %}
       <article class="writing-item{% if item.image and item.image != "" %} has-thumbnail{% endif %}">
-        <div>
+        <div class="writing-item-media">
           <p class="item-type">{{ item.type | escape }}</p>
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+          {% if item.image and item.image != "" %}
+            <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position and item.image_position != "" %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
+              <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
+            </a>
+          {% endif %}
+        </div>
+        <div class="writing-item-summary">
+          {% if item.date and item.date != "" %}
+            <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %-d, %Y" }}</time>
+          {% endif %}
           {% if item.excerpt and item.excerpt != "" %}
             <p>{{ item.excerpt | strip_html | truncate: 170 | escape }}</p>
           {% endif %}
         </div>
-        {% if item.date and item.date != "" %}
-          <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %-d, %Y" }}</time>
-        {% endif %}
-        {% if item.image and item.image != "" %}
-          <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position and item.image_position != "" %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
-            <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
-          </a>
-        {% endif %}
       </article>
     {% endfor %}
   </div>
