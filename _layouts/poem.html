@@ -9,15 +9,16 @@ layout: default
     {% if page.subtitle %}
       <div class="work-subtitle">{{ page.subtitle | markdownify }}</div>
     {% endif %}
+    {% include category-list.html item=page %}
+    {% include feature-image.html %}
     {% if page.date %}
-      <p class="work-meta">
+      <p class="work-meta poem-date">
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       </p>
     {% endif %}
-    {% include category-list.html item=page %}
-    {% include feature-image.html %}
   </header>
   <div class="prose poem-body">
     {{ content }}
   </div>
+  {% include work-navigation.html %}
 </article>

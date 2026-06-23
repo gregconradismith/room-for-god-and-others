@@ -1,0 +1,34 @@
+{% assign collection_items = site[page.collection] | sort: "date" %}
+{% assign previous_item = nil %}
+{% assign next_item = nil %}
+{% assign last_item = nil %}
+{% assign found_current = false %}
+{% for item in collection_items %}
+  {% if found_current and next_item == nil %}
+    {% assign next_item = item %}
+  {% endif %}
+  {% if item.url == page.url %}
+    {% assign previous_item = last_item %}
+    {% assign found_current = true %}
+  {% endif %}
+  {% unless found_current %}
+    {% assign last_item = item %}
+  {% endunless %}
+{% endfor %}
+
+{% if previous_item or next_item %}
+  <nav class="work-navigation" aria-label="Adjacent writing">
+    {% if previous_item %}
+      <a class="work-navigation-link previous" href="{{ previous_item.url | relative_url }}">
+        <span>Previous</span>
+        <strong>{{ previous_item.title | escape }}</strong>
+      </a>
+    {% endif %}
+    {% if next_item %}
+      <a class="work-navigation-link next" href="{{ next_item.url | relative_url }}">
+        <span>Next</span>
+        <strong>{{ next_item.title | escape }}</strong>
+      </a>
+    {% endif %}
+  </nav>
+{% endif %}

@@ -793,6 +793,11 @@ h3 {
   margin: 16px 0 0;
 }
 
+.poem-date {
+  font-size: 0.86rem;
+  margin-top: 14px;
+}
+
 .draft-note {
   border-left: 3px solid var(--accent);
   color: var(--soft-ink);
@@ -907,6 +912,7 @@ h3 {
 .poem-body {
   font-size: 1.22rem;
   line-height: 1.9;
+  max-width: 36rem;
 }
 
 .poem-note {
@@ -918,6 +924,48 @@ h3 {
 .verse {
   line-height: 1.9;
   white-space: pre-line;
+}
+
+.work-navigation {
+  border-top: 1px solid var(--line);
+  display: grid;
+  gap: 14px;
+  grid-column: 2;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 48px;
+  max-width: var(--measure);
+  padding-top: 20px;
+}
+
+.work-navigation-link {
+  color: var(--ink);
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+  text-decoration: none;
+}
+
+.work-navigation-link.next {
+  grid-column: 2;
+  text-align: right;
+}
+
+.work-navigation-link span {
+  color: var(--accent-2);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.work-navigation-link strong {
+  font-size: 1rem;
+  line-height: 1.28;
+}
+
+.work-navigation-link:hover strong {
+  color: var(--accent-2);
 }
 
 figcaption {
@@ -1056,6 +1104,10 @@ figcaption {
     font-size: 2rem;
     line-height: 1.1;
   }
+
+  .work-navigation {
+    grid-column: auto;
+  }
 }
 
 @media (max-width: 560px) {
@@ -1116,6 +1168,15 @@ figcaption {
 
   .writing-thumbnail {
     width: 148px;
+  }
+
+  .work-navigation {
+    grid-template-columns: 1fr;
+  }
+
+  .work-navigation-link.next {
+    grid-column: auto;
+    text-align: left;
   }
 }
 
