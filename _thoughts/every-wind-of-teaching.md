@@ -3,9 +3,10 @@ layout: thought
 title: "Every wind of teaching"
 date: 2026-04-27
 excerpt: "> Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their dec"
-image: "/assets/images/thoughts/every-wind-of-teaching.jpg"
-image_alt: "A personal doodle illustration selected for this thought."
-image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
+image: "/assets/images/thoughts/every-wind-of-teaching-bruegel.jpg"
+image_alt: "Pieter Bruegel the Elder's painting The Blind Leading the Blind, showing a line of blind men stumbling one after another."
+image_credit: "Pieter Bruegel the Elder, The Blind Leading the Blind, 1568, Museo di Capodimonte, via Wikimedia Commons; public domain."
+image_credit_url: "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D1%82%D1%87%D0%B0_%D0%BE_%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%85.jpeg"
 categories:
   - Thoughts
 ---

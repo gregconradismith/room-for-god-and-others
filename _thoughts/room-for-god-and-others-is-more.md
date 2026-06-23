@@ -3,6 +3,10 @@ layout: thought
 title: "Room for God and Others is more vision than discursive thought"
 date: 2026-04-27
 excerpt: "Room for God and Others is more vision than discursive thought. The book is not an argument, but a story."
+image: "/assets/images/thoughts/room-for-god-and-others-is-more.jpg"
+image_alt: "A long view across the Sunken Garden toward the Wren Building at William & Mary."
+image_credit: "Photograph by Ser Amantio di Nicolao, via Wikimedia Commons; licensed under CC BY-SA 4.0."
+image_credit_url: "https://commons.wikimedia.org/wiki/File:Wren_Building_from_head_of_the_Sunken_Gardens.jpg"
 categories:
   - Thoughts
 ---
