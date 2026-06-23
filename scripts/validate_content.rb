@@ -66,7 +66,10 @@ def local_path_exists?(url, known_urls)
   false
 end
 
-def collection_url(path)
+def collection_url(path, data = {})
+  permalink = data["permalink"].to_s.strip
+  return permalink if !permalink.empty?
+
   rel = path.relative_path_from(ROOT).to_s
   stem = path.basename(".md").to_s
 
@@ -90,7 +93,7 @@ content_paths(COLLECTION_GLOBS).each do |path|
   title = data["title"].to_s.strip
   titles[title.downcase] << rel unless title.empty?
 
-  url = collection_url(path)
+  url = collection_url(path, data)
   urls << url if url
 end
 
