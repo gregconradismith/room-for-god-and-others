@@ -913,18 +913,6 @@ h3 {
   padding-left: 1.25em;
 }
 
-.poem {
-  max-width: min(100%, 72ch);
-}
-
-.quote-work {
-  max-width: min(100%, 74ch);
-}
-
-.thought-work {
-  max-width: min(100%, 76ch);
-}
-
 .quote-body {
   border-left: 4px solid var(--accent-3);
   font-size: 1.14rem;
