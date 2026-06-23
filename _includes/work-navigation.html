@@ -1,4 +1,18 @@
-{% assign collection_items = site[page.collection] | sort: "date" %}
+{% assign collection_items = nil %}
+{% case page.collection %}
+  {% when "essays" %}
+    {% assign collection_items = site.essays %}
+  {% when "poems" %}
+    {% assign collection_items = site.poems %}
+  {% when "aphorisms" %}
+    {% assign collection_items = site.aphorisms %}
+  {% when "quotes" %}
+    {% assign collection_items = site.quotes %}
+  {% when "thoughts" %}
+    {% assign collection_items = site.thoughts %}
+{% endcase %}
+{% if collection_items %}
+{% assign collection_items = collection_items | sort: "date" %}
 {% assign previous_item = nil %}
 {% assign next_item = nil %}
 {% assign last_item = nil %}
@@ -31,4 +45,5 @@
       </a>
     {% endif %}
   </nav>
+{% endif %}
 {% endif %}
