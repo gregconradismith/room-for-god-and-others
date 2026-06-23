@@ -13,5 +13,3 @@ categories:
 Understanding is an intellectual submission to the truth of a matter.
 
 An expert is a life-long student of her subject.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

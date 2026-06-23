@@ -12,6 +12,4 @@ categories:
 ---
 If one can lie with statistics, just imagine the possibilities for data science.
 
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">
-
 *2021 January 31*

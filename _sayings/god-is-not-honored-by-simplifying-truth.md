@@ -11,5 +11,3 @@ categories:
   - Sayings
 ---
 God is not honored by insisting that the truth be simpler than it is.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

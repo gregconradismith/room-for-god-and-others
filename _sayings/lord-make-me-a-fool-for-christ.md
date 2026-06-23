@@ -11,5 +11,3 @@ categories:
   - Sayings
 ---
 Lord, make me a fool for Christ. And for no other reason.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

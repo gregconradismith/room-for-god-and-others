@@ -15,5 +15,3 @@ Faith is the evidence of things unseen, not a refuge from what is demonstrable o
 Faith is not credulity.
 
 Faith is a pearl and an open door, not studied ignorance and a closed mind.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

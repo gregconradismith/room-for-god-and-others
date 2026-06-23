@@ -11,5 +11,3 @@ categories:
   - Sayings
 ---
 We talk of a personal relationship with God. If that means anything, it means that God loves me for who I am (meaning me, specifically) and I love God for who he is (because of his character). What exactly do you love about God? What attribute or perfection? I submit that loving God for the quality of his character, rather than simply because he is God, would represent real growth for most of us.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

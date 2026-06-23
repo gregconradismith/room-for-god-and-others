@@ -11,5 +11,3 @@ categories:
   - Sayings
 ---
 Our wins are not the result of religious superiority; our defeats do not signal loss of God’s favor. In joy and in sorrow, in sickness and in health, we are conquerers blessed with every spiritual gift and true knowledge of God. We have the mind of Christ, which is determined to follow the example of Christ’s perfect humanity. We experience fullness of God’s power in the context of our humility, our weakness, and any cross we bear.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">

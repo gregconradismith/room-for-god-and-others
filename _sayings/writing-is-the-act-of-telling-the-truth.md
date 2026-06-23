@@ -13,5 +13,3 @@ categories:
 It has been said that writing is an act of hope, an act of courage, but God gave me my writing so that I might tell the truth.
 
 For me, writing is the act of telling the truth.
-
-<img class="signature-logo" src="https://gregconradismith.github.io/room-for-god-and-others/assets/images/sayings/gdcs-signature.png" alt="Greg Conradi Smith initials logo">
