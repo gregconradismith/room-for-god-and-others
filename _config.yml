@@ -4,7 +4,7 @@ url: "https://gregconradismith.github.io"
 baseurl: "/room-for-god-and-others"
 lang: en
 timezone: America/New_York
-css_version: 7
+css_version: 8
 
 analytics:
   plausible_domain: ""

@@ -860,6 +860,11 @@ h3 {
   max-width: var(--measure);
 }
 
+.work > .prose {
+  max-width: none;
+  width: 100%;
+}
+
 .prose p,
 .prose ul,
 .prose ol,
