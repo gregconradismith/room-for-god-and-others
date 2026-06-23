@@ -419,6 +419,18 @@ h3 {
   max-width: 560px;
 }
 
+.themes-page {
+  display: block;
+}
+
+.themes-page .page-header,
+.themes-page .prose {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 760px;
+  text-align: center;
+}
+
 .writing-browser {
   padding-bottom: 26px;
   padding-top: 34px;
