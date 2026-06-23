@@ -303,11 +303,24 @@ h3 {
   padding: 58px 22px 78px;
 }
 
-.page,
 .work {
   display: grid;
   grid-template-columns: minmax(18ch, 24%) minmax(0, var(--measure));
   gap: 46px;
+}
+
+.page {
+  display: block;
+}
+
+.page-header {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.page .prose {
+  max-width: none;
 }
 
 .search-page {
@@ -570,7 +583,7 @@ h3 {
 
 .archive-tools {
   border-top: 1px solid var(--ink);
-  grid-column: 2;
+  grid-column: auto;
   margin: 0 0 18px;
   padding-top: 18px;
 }
@@ -709,7 +722,7 @@ h3 {
 
 .archive-list {
   border-top: 1px solid var(--ink);
-  grid-column: 2;
+  grid-column: auto;
 }
 
 .archive-item {
@@ -1102,7 +1115,6 @@ figcaption {
   }
 
   .category-band,
-  .page,
   .work {
     grid-template-columns: 1fr;
   }
