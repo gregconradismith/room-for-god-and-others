@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Online dating, wholly in haiku"
+title: "Online Dating, Wholly in Haiku"
 date: 2026-06-14
 excerpt: "A poem beginning: “HER”"
 image: /assets/images/poems/online-dating-wholly-in-haiku.jpg
