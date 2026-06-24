@@ -1,6 +1,6 @@
 # Codex Handoff
 
-Date: 2026-06-23
+Date: 2026-06-24
 
 Repo: `room-for-god-and-others`
 
@@ -23,7 +23,7 @@ Status before this handoff edit:
 ```
 <!-- codex-transfer-snapshot:end -->
 
-Current Git status after the 2026-06-22 homepage hero image update:
+Current Git status after the 2026-06-24 theme and archive page updates:
 
 ```bash
 ## main...origin/main
@@ -101,6 +101,30 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
   religion`, and the theme typo/URL `the-all-administrative-university`.
   Remaining title work, if any, should be treated as subjective editorial
   review rather than known mechanical cleanup.
+- On 2026-06-24, archive-style pages were simplified and visually aligned.
+  `Essays`, `Attempted Poetry`, `Thoughts`, `Sayings`, `Voices`, and `Themes`
+  use cascading archive blocks with centered titles/images. Extra introductory
+  copy, subtitles, item symbols, and title-adjacent rules were removed per
+  Greg's instruction. Do not invent replacement subtitles or descriptions.
+- Theme data lives in `_data/writing_categories.yml`; individual theme pages
+  live under `themes/`. Theme pages have `page_class: theme-page`, use the
+  existing generated theme images via `image:` front matter, and render those
+  images through `_layouts/page.html` / `_includes/feature-image.html`.
+- Theme page image size is currently controlled by
+  `.theme-page .feature-image` in `assets/css/styles.css` and was reduced to
+  `width: min(100%, 18rem)`. The latest cache-busting value after this pass is
+  `css_version: 22`.
+- Generated theme subtitles were removed from both `_data/writing_categories.yml`
+  and the individual `themes/*.md` pages. If Greg asks about unexpected text,
+  search both the data file and the page front matter.
+- The homepage hero eyebrow now reads
+  `Thoughts on science, faith, and pluralism`.
+- Recent successful commits from the 2026-06-24 visual/content pass include
+  `35c830a Reduce theme page image size`,
+  `3155048 Add images to theme pages`,
+  `70b1d2a Keep theme page titles on one line`,
+  `53eba22 Update homepage eyebrow text`, and
+  `42f251b Remove theme page subtitles`.
 
 ## Useful Commands
 
