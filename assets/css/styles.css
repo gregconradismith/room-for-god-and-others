@@ -1143,8 +1143,8 @@ figcaption {
   .site-nav > a,
   .site-nav .nav-button {
     flex: 1 1 0;
-    font-size: clamp(0.56rem, 2.2vw, 0.72rem);
-    letter-spacing: 0.04em;
+    font-size: clamp(0.48rem, 1.8vw, 0.66rem);
+    letter-spacing: 0;
     min-width: 0;
     padding: 7px 3px 6px;
   }
@@ -1290,8 +1290,8 @@ figcaption {
 @media (max-width: 23.75em) {
   .site-nav > a,
   .site-nav .nav-button {
-    font-size: 0.5rem;
-    letter-spacing: 0.01em;
+    font-size: 0.46rem;
+    letter-spacing: 0;
     padding-left: 2px;
     padding-right: 2px;
   }
