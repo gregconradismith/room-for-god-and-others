@@ -424,7 +424,7 @@ h3 {
 
 .theme-page .feature-image {
   margin: 22px auto 0;
-  width: min(100%, 36rem);
+  width: min(100%, 18rem);
 }
 
 .archive-page .page-header {
