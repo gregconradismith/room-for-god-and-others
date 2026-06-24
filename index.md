@@ -6,7 +6,7 @@ title: Home
 <section class="hero" aria-labelledby="home-title">
   <div class="hero-copy">
     <h1 id="home-title">Room for God &amp; Others</h1>
-    <p class="eyebrow">Thoughts on science, faith, and public life</p>
+    <p class="eyebrow">Thoughts on science, faith, and pluralism</p>
     <p>Greg Conradi Smith</p>
   </div>
   <img class="hero-mark" src="{{ '/assets/images/g-symbol-bw.png' | relative_url }}" alt="" aria-hidden="true">
