@@ -1150,7 +1150,7 @@ figcaption {
   }
 
   .site-nav > a.nav-button {
-    flex: 1.35 1 0;
+    flex: 1.35 1 auto;
   }
 
   .hero {
