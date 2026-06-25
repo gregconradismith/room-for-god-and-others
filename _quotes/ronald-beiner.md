@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "The all-administrative university"
+  - "Read against the machine"
 ---
 Looking back on that conversation today, I cannot help but wonder whether my more hopeful view of the discipline and its intellectual achievements was just a conceit of youth, and whether it can survive more rigorous critical scrutiny at a later stage of life.
 

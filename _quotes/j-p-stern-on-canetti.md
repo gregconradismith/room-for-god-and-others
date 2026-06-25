@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Read against the machine"
+  - "Biophysical soul"
 ---
 To conclude that Canetti's use [in his book Crowd's and Power] of the method of philosophical anthropology is uncritical – that is, unphilosophical – is to advert to the fact that at no point in the book does he (or indeed, more surprisingly, Iris Murdoch in her enthusiastic review of 1962) show any interest in providing a validation for his insights and claims.
 

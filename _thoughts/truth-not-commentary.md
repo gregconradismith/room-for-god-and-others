@@ -8,6 +8,10 @@ image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Thoughts
+themes:
+  - "Read against the machine"
+  - "Instead of beauty, branding"
+  - "Jesus loves Darwin"
 ---
 > God gave me my writing so that I might tell the truth.
 

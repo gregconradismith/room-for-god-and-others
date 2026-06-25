@@ -9,6 +9,9 @@ image_credit: "Pieter Bruegel the Elder, The Blind Leading the Blind, 1568, Muse
 image_credit_url: "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D1%82%D1%87%D0%B0_%D0%BE_%D1%81%D0%BB%D0%B5%D0%BF%D1%8B%D1%85.jpeg"
 categories:
   - Thoughts
+themes:
+  - "Read against the machine"
+  - "Jesus loves Darwin"
 ---
 > Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. (Ephesians 4:14 NIV)
 

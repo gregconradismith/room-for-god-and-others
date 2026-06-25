@@ -8,6 +8,8 @@ image_alt: "A glowing storm cloud."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "15% of my brain"
 ---
 Man does not control his own fate. The women in his life do that for him.
 

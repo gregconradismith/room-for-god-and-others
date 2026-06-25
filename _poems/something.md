@@ -8,6 +8,9 @@ image_alt: "A glowing small object surrounded by dark empty space and chalk-like
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Abusing notation"
+  - "15% of my brain"
 ---
 <div class="verse">
 Something is more than Nothing.

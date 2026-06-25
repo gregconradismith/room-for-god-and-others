@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Instead of beauty, branding"
+  - "Read against the machine"
 ---
 Imaginatively she is of the highest significance, practically she is completely insignificant.
 

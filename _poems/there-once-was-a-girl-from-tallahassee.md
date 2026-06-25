@@ -8,6 +8,8 @@ image_alt: "A poised young woman on a sunny Southern porch with a fan and thorne
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "15% of my brain"
 ---
 <div class="verse">
 There once was a girl from Tallahassee

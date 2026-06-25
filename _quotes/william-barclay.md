@@ -8,6 +8,9 @@ image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 categories:
   - Voices
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 When we speak for Christ we must speak as if Christ is listening -- as indeed he is.
 

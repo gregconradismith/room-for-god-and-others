@@ -22,26 +22,26 @@
     var status = browser.querySelector("[data-browser-status]");
     var items = Array.prototype.slice.call(browser.querySelectorAll("[data-browser-item]"));
     var params = new URLSearchParams(window.location.search);
-    var selectedCategory = browser.getAttribute("data-selected-category") || params.get("category") || "";
+    var selectedTheme = browser.getAttribute("data-selected-theme") || params.get("theme") || params.get("category") || "";
 
-    function matchesCategory(item, category) {
-      if (!category) {
+    function matchesTheme(item, theme) {
+      if (!theme) {
         return true;
       }
 
-      var itemCategories = (item.getAttribute("data-categories") || "").split("|");
-      return itemCategories.indexOf(category) !== -1;
+      var itemThemes = (item.getAttribute("data-themes") || "").split("|");
+      return itemThemes.indexOf(theme) !== -1;
     }
 
     function updateResults() {
       var query = normalized(search ? search.value : "");
-      var hasFilter = query.length > 0 || selectedCategory.length > 0;
+      var hasFilter = query.length > 0 || selectedTheme.length > 0;
       var visible = 0;
 
       items.forEach(function (item) {
         var textMatch = !query || normalized(item.getAttribute("data-search")).indexOf(query) !== -1;
-        var categoryMatch = matchesCategory(item, selectedCategory);
-        var show = hasFilter && textMatch && categoryMatch;
+        var themeMatch = matchesTheme(item, selectedTheme);
+        var show = hasFilter && textMatch && themeMatch;
 
         item.hidden = !show;
         if (show) {
@@ -56,9 +56,9 @@
       if (!hasFilter) {
         status.textContent = "Enter a search term.";
       } else if (visible === 1) {
-        status.textContent = selectedCategory ? "1 result in " + selectedCategory : "1 result";
+        status.textContent = selectedTheme ? "1 result in " + selectedTheme : "1 result";
       } else {
-        status.textContent = selectedCategory ? visible + " results in " + selectedCategory : visible + " results";
+        status.textContent = selectedTheme ? visible + " results in " + selectedTheme : visible + " results";
       }
     }
 

@@ -11,6 +11,10 @@ image_alt: "An empty chair facing a glowing screen with an ambiguous human-like 
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Essays
+themes:
+  - "Read against the machine"
+  - "Biophysical soul"
+  - "Instead of beauty, branding"
 ---
 AI takes different forms. Artificial general intelligence (AGI) refers to computational tools capable of general-purpose reasoning. AGI research is as ambitious and speculative as efforts to build quantum computers.
 

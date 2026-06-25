@@ -10,6 +10,9 @@ image_credit: "NASA, ESA, S. Beckwith (STScI), and the HUDF Team, via Wikimedia 
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez_edit1.jpg"
 categories:
   - Voices
+themes:
+  - "Read against the machine"
+  - "The all-administrative university"
 ---
 This election is said to have been about rejecting the political establishment. We cannot let that mean rejecting established facts.
 

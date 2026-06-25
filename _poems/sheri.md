@@ -8,6 +8,8 @@ image_alt: "A worn cloth doll opening into a luminous forest home."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
 ---
 <div class="verse">
 What fills this doll who walks with me?

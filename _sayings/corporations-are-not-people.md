@@ -9,5 +9,8 @@ image_alt: "A turtle shell on a neutral background."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Sayings
+themes:
+  - "Instead of beauty, branding"
+  - "Read against the machine"
 ---
 I hold these truths to be self-evident. (1) Corporations are not people. (2) Money is not speech.

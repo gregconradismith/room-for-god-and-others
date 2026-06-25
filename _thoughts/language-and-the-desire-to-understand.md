@@ -9,6 +9,9 @@ image_credit: "Photograph by Smash the Iron Cage, via Wikimedia Commons; license
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_Carriage.jpg"
 categories:
   - Thoughts
+themes:
+  - "Read against the machine"
+  - "Biophysical soul"
 ---
 One of the problems of language is that unless both parties are trying to communicate and understand one another, the attempts at making contact are destined to fail.
 

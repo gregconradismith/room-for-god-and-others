@@ -8,6 +8,9 @@ image_alt: "A Loch Ness-like creature surfacing in a misty Scottish lake."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 What did the Loch Ness say upon that Wed-ness-day?

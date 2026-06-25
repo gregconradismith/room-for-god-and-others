@@ -6,6 +6,10 @@ source: "Greg Conradi Smith"
 excerpt: "Confusion, fear, and pride are not just obstacles to thought; they are obstacles to love."
 categories:
   - Thoughts
+themes:
+  - "15% of my brain"
+  - "Read against the machine"
+  - "Biophysical soul"
 ---
 Confusion, fear, and pride are not just obstacles to thought.
 

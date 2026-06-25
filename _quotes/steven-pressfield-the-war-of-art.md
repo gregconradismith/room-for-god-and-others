@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "15% of my brain"
+  - "Instead of beauty, branding"
 ---
 Look in your own heart. Unless I'm crazy, right now a still small voice is piping up, telling you as it has ten thousand times the calling that is yours and yours alone. You know it. No one has to tell you.
 

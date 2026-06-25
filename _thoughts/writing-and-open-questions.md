@@ -10,6 +10,8 @@ image_credit: "Photograph by Morgan Brown/CSIRO, via Wikimedia Commons; licensed
 image_credit_url: "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11406_Using_a_microscope_to_examine_a_slide.jpg"
 categories:
   - Thoughts
+themes:
+  - "15% of my brain"
 ---
 Writing for me is not so much about making an argument, as it is about identifying open questions, seeking answers and understanding.
 

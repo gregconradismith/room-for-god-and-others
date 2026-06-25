@@ -8,6 +8,9 @@ image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 categories:
   - Voices
+themes:
+  - "Read against the machine"
+  - "Jesus loves Darwin"
 ---
 "We are not to simply bandage the wounds of victims beneath the wheels of injustice, we are to drive a spoke into the wheel itself."
 

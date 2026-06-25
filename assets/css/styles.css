@@ -494,6 +494,14 @@ h3 {
   text-decoration: none;
 }
 
+.theme-card p {
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 34ch;
+}
+
 .writing-browser {
   padding-bottom: 26px;
   padding-top: 34px;

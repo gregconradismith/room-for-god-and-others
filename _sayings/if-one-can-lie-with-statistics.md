@@ -9,6 +9,10 @@ image_alt: "A glowing storm cloud against a dark sky."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Sayings
+themes:
+  - "Abusing notation"
+  - "Read against the machine"
+  - "Instead of beauty, branding"
 ---
 If one can lie with statistics, just imagine the possibilities for data science.
 

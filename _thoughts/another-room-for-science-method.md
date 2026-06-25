@@ -10,6 +10,9 @@ image_credit: "Vilhelm Hammershoi, White Doors, Strandgade 25, 1913, via Wikimed
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Vilhelm_Hammersh%C3%B8i_-_Hvide_d%C3%B8re._Interi%C3%B8r_fra_Strandgade_25_-_1913.png"
 categories:
   - Thoughts
+themes:
+  - "Jesus loves Darwin"
+  - "15% of my brain"
 ---
 A room is not a conclusion.
 

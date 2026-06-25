@@ -9,5 +9,7 @@ image_alt: "Metal grid wall art."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Sayings
+themes:
+  - "Jesus loves Darwin"
 ---
 Lord, make me a fool for Christ. And for no other reason.

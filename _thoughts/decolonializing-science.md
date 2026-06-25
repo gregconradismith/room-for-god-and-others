@@ -10,6 +10,10 @@ image_credit: "Maria Sibylla Merian, illustration from Metamorphosis insectorum 
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Merian_insectes_Surinam.jpg"
 categories:
   - Thoughts
+themes:
+  - "The all-administrative university"
+  - "Read against the machine"
+  - "Instead of beauty, branding"
 ---
 Science is a human practice before it is an institution of authority.
 

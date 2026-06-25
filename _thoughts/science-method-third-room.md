@@ -10,6 +10,9 @@ image_credit: "Joseph Wright of Derby, A Philosopher Giving a Lecture on the Orr
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg"
 categories:
   - Thoughts
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 The question is not whether science leaves room for God.
 

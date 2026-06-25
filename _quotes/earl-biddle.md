@@ -8,6 +8,9 @@ image_alt: "Alpine wildflowers."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Jesus loves Darwin"
+  - "Biophysical soul"
 ---
 It is to be expected that scientific explanations of human behavior in purely materialistic terms will be met by opposition, not only by the clergy, but by everyone concerned about religion.
 

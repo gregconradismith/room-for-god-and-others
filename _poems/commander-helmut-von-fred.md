@@ -8,6 +8,8 @@ image_alt: "A solemn commander wearing a metal colander as a helmet."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "15% of my brain"
 ---
 <div class="verse">
 Commander Helmut von Fred

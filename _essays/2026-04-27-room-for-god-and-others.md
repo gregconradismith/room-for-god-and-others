@@ -11,6 +11,11 @@ image_alt: "A solitary professor walking from modern campus paths toward older h
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Essays
+themes:
+  - "The all-administrative university"
+  - "Jesus loves Darwin"
+  - "Instead of beauty, branding"
+  - "Read against the machine"
 ---
 But, you may say, you were going to speak about science and higher education. What does that have to do with ‘room for God and others’? I will try to explain.
 

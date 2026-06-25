@@ -10,6 +10,9 @@ image_credit: "Photograph by Frances Benjamin Johnston, Library of Congress, via
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Bruton_Parish_Church_and_churchyard_Williamsburg_Virginia_by_Frances_Benjamin_Johnston.jpg"
 categories:
   - Thoughts
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 A responsible faith does not fear questions that are asked in love of truth.
 

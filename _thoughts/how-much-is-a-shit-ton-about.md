@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Thoughts
+themes:
+  - "Abusing notation"
+  - "15% of my brain"
 ---
 How much is a *shit ton*? About three *mother loads*.[^1]
 

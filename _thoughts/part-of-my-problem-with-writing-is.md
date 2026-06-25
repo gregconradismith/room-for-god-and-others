@@ -9,6 +9,9 @@ image_credit: "Unknown artist, Flammarion woodcut, first published in Camille Fl
 image_credit_url: "https://commons.wikimedia.org/wiki/File:FlammarionWoodcut.jpg"
 categories:
   - Thoughts
+themes:
+  - "15% of my brain"
+  - "Abusing notation"
 ---
 Part of my problem with writing is the continual demand to create, to be novel and fresh. In my experience of the research process, I cannot force scientific and mathematical ideas to emerge. Perhaps, in the same way, I cannot force a story. But I can be prepared.
 

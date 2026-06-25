@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "15% of my brain"
+  - "Instead of beauty, branding"
 ---
 A work of art is good if it has arisen out of necessity. Of course, you must know that every letter of yours will always give me pleasure.
 

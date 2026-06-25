@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Jesus loves Darwin"
+  - "Biophysical soul"
 ---
 The final decisive edge enjoyed by scientific naturalism will come from its capacity to explain traditional religion, its chief competitor, as a wholly material phenomena.
 

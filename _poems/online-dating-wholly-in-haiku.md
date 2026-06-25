@@ -8,6 +8,9 @@ image_alt: "A desk with an abstract laptop profile, microphone, music, and blank
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 HER:

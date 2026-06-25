@@ -8,6 +8,9 @@ image_alt: "An Archimedes-like figure studying floating cereal beside a bath."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Abusing notation"
+  - "15% of my brain"
 ---
 <div class="verse">
 When Archimedes ate his Wheaties

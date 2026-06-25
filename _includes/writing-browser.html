@@ -1,4 +1,5 @@
-<section class="writing-browser" aria-labelledby="writing-browser-title" data-writing-browser{% if include.category %} data-selected-category="{{ include.category | escape }}"{% endif %}>
+{% assign selected_theme = include.theme | default: include.category %}
+<section class="writing-browser" aria-labelledby="writing-browser-title" data-writing-browser{% if selected_theme %} data-selected-theme="{{ selected_theme | escape }}"{% endif %}>
   <div class="browser-controls">
     <label class="browser-search">
       <span id="writing-browser-title">Search</span>
@@ -6,7 +7,7 @@
     </label>
   </div>
 
-  <p class="browser-status" data-browser-status>{% if include.category %}Search within this theme.{% else %}Search all writing.{% endif %}</p>
+  <p class="browser-status" data-browser-status>{% if selected_theme %}Search within this theme.{% else %}Search all writing.{% endif %}</p>
 
   <div class="browser-results" data-browser-results>
     {% assign browser_essays = site.essays | sort: "date" | reverse %}

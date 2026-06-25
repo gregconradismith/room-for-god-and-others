@@ -6,6 +6,9 @@ source: "Greg Conradi Smith"
 excerpt: "Writing from the place of knowing that I am loved."
 categories:
   - Voices
+themes:
+  - "15% of my brain"
+  - "Jesus loves Darwin"
 ---
 Writing from the place of knowing that I am loved.
 

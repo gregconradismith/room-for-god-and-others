@@ -8,6 +8,8 @@ image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Thoughts
+themes:
+  - "Read against the machine"
 ---
 I have been enjoying Timothy Snyder’s YouTube videos. In one of them, he introduced the term “totalitarianism” to a discussion of populism, oligarchy, and authoritarianism. His definition of totalitarianism focused on loss of private life. He said he follows Hannah Arendt’s usage. “Totalitarian regimes seek to dominate every aspect of everyone’s life as a prelude to world domination.”[^1] In a totalitarian society all of one’s actions are public. Private life may also be overwhelmed in lesser ways, as in the sentence “politics is a totalizing profession.”
 

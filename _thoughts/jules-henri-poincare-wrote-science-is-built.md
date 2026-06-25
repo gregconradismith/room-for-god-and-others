@@ -9,5 +9,9 @@ image_credit: "Johannes Vermeer, The Geographer, 1668, Städel Museum, via Wikim
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg"
 categories:
   - Thoughts
+themes:
+  - "Abusing notation"
+  - "Read against the machine"
+  - "Jesus loves Darwin"
 ---
 Jules Henri Poincaré wrote, "Science is built up of facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house." I agree, but would add the following: "When a mountain of facts cannot influence opinion, this is evidence that the opinion in question is not a matter of science, but a matter of faith."

@@ -8,6 +8,8 @@ image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Thoughts
+themes:
+  - "Read against the machine"
 ---
 The other day I used the word “fascist” and midspeech I confessed that I did not know what the word meant. Turning to Wikipedia’s definitions of fascism, most of my questions were not answered. However, I was struck by the description of Umberto Eco’s “properties of fascist ideology”[^1] because some remind me of the Trump candidacy and my understanding of his populist appeal. Heavily abridged from that Wikipedia entry, consider these six of Eco’s fourteen characteristics of fascism:
 

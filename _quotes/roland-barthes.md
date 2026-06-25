@@ -8,6 +8,9 @@ image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."
 categories:
   - Voices
+themes:
+  - "Biophysical soul"
+  - "Abusing notation"
 ---
 ...
 

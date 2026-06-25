@@ -10,6 +10,9 @@ image_credit: "Henry Ossawa Tanner, The Annunciation, 1898, Philadelphia Museum 
 image_credit_url: "https://commons.wikimedia.org/wiki/File:Henry_Ossawa_Tanner_-_The_Annunciation.jpg"
 categories:
   - Thoughts
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 The servant's tongue is shaped not by pride but by listening and learning.
 

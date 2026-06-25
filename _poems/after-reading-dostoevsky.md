@@ -8,6 +8,9 @@ image_alt: "Two shadowed figures at a table in a dim room, one confessing with o
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 I confessed I was a thief.

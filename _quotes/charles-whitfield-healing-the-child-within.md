@@ -8,6 +8,8 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Biophysical soul"
 ---
 One reason is that the mother herself is so impoverished and needy that she uses her infant to satisfy her own unmet needs.
 

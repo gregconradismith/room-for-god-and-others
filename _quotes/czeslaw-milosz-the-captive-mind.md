@@ -8,6 +8,8 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "Read against the machine"
 ---
 Who can gaze indifferently at the suffering of people whose only sin was that they blocked the path of historical processes? To lull his conscience he resorts to the thesis that a reactionary cannot be a good man.
 

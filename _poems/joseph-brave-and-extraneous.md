@@ -8,6 +8,9 @@ image_alt: "Joseph carving a wooden rattle by lamplight while Mary rests with th
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Jesus loves Darwin"
+  - "Biophysical soul"
 ---
 <div class="verse">
 Bethlehem's Spring cradles

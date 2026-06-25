@@ -9,6 +9,9 @@ image_alt: "An owl butterfly resting on a tree trunk."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Sayings
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 Faith is the evidence of things unseen, not a refuge from what is demonstrable or inferred.
 

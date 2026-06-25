@@ -37,10 +37,19 @@ title: "A New Essay"
 date: 2026-06-14
 category: essay
 excerpt: "A short summary for listing pages."
+categories:
+  - Essays
+themes:
+  - Jesus loves Darwin
+  - Read against the machine
 ---
 ```
 
 For poems, use `layout: poem`. For sayings, use `layout: saying`. For voices, use `layout: quote`. For thoughts, use `layout: thought`.
+Use `categories` for the broad collection label shown by genre, and use
+`themes` for one or more entries from `_data/writing_categories.yml`.
+Voices must include an attribution, either in `source` front matter or as
+a trailing Markdown line beginning with `--`.
 
 Images are rendered from front matter when `image` is set. Use `image_alt` for accessible alt text, and optionally use `image_position` to adjust thumbnail cropping:
 

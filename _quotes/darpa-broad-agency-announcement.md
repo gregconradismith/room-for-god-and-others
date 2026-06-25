@@ -8,6 +8,10 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "The all-administrative university"
+  - "Read against the machine"
+  - "Instead of beauty, branding"
 ---
 The Defense Sciences Office at the Defense Advanced Research Projects Agency (DARPA) is soliciting innovative research proposals in the area of new simulation capabilities to test the accuracy and robustness of causal modeling methods for understanding human social systems and behaviors.
 

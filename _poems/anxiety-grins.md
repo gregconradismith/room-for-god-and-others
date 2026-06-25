@@ -8,6 +8,9 @@ image_alt: "A kneeling figure praying beside a shadow that almost forms a toothl
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 Anxiety grins

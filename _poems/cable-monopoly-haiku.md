@@ -8,6 +8,9 @@ image_alt: "A quiet living room with a cable router, coiled cables, and an empty
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Instead of beauty, branding"
+  - "15% of my brain"
 ---
 <div class="verse">
 Another two-hour block spent

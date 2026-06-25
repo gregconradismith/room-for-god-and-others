@@ -9,6 +9,9 @@ image_alt: "A closeup of glass art."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Sayings
+themes:
+  - "Read against the machine"
+  - "The all-administrative university"
 ---
 Understanding is an intellectual submission to the truth of a matter.
 

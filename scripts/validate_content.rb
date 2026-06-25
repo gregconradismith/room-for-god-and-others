@@ -15,6 +15,7 @@ errors = []
 warnings = []
 titles = Hash.new { |hash, key| hash[key] = [] }
 urls = Set.new
+theme_titles = Set.new
 
 def content_paths(globs)
   globs.flat_map { |glob| Dir.glob(ROOT.join(glob)).map { |file| Pathname.new(file) } }
@@ -87,11 +88,42 @@ def collection_url(path, data = {})
   end
 end
 
+theme_data_path = ROOT.join("_data/writing_categories.yml")
+if theme_data_path.file?
+  themes = YAML.safe_load(theme_data_path.read, aliases: false) || []
+  Array(themes).each do |theme|
+    title = theme["title"].to_s.strip
+    slug = theme["slug"].to_s.strip
+    description = theme["description"].to_s.strip
+
+    errors << "_data/writing_categories.yml: theme title is required" if title.empty?
+    errors << "_data/writing_categories.yml: theme slug is required for #{title}" if slug.empty?
+    errors << "_data/writing_categories.yml: theme description is required for #{title}" if description.empty?
+    theme_titles << title unless title.empty?
+  end
+else
+  errors << "_data/writing_categories.yml: writing themes data file is missing"
+end
+
 content_paths(COLLECTION_GLOBS).each do |path|
-  data, = front_matter(path)
+  data, body = front_matter(path)
   rel = path.relative_path_from(ROOT).to_s
   title = data["title"].to_s.strip
   titles[title.downcase] << rel unless title.empty?
+
+  themes = Array(data["themes"]).map { |theme| theme.to_s.strip }.reject(&:empty?)
+  errors << "#{rel}: themes must include at least one writing theme" if themes.empty?
+  themes.each do |theme|
+    errors << "#{rel}: unknown theme: #{theme}" unless theme_titles.include?(theme)
+  end
+
+  if rel.start_with?("_quotes/")
+    has_source = !data["source"].to_s.strip.empty?
+    has_body_attribution = body.lines.any? { |line| line.strip.start_with?("--") }
+    unless has_source || has_body_attribution
+      errors << "#{rel}: quote attribution is required in source front matter or a trailing -- attribution line"
+    end
+  end
 
   url = collection_url(path, data)
   urls << url if url

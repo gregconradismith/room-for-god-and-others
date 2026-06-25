@@ -8,6 +8,8 @@ image_alt: "A backlit agate slice."
 image_credit: "Photograph by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "15% of my brain"
 ---
 If you cannot be a poet, be the poem.
 

@@ -8,6 +8,8 @@ image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Voices
+themes:
+  - "The all-administrative university"
 ---
 I'm both a professor and student, because if you are no longer a student, you don't have the right to call yourself a professor.
 

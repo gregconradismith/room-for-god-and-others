@@ -8,6 +8,9 @@ image_alt: "Two people in bright pajamas laughing by touching kayaks and rising 
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Jesus loves Darwin"
+  - "Biophysical soul"
 ---
 <div class="verse">
 Come, let us be shallow together

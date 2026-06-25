@@ -8,6 +8,9 @@ image_alt: "A circular woodland path with an empty center and walnuts gathered n
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 Melinda Miller, inward bound,

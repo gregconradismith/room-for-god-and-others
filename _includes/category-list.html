@@ -1,7 +1,8 @@
-{% if include.item.categories %}
+{% assign item_themes = include.item.themes | default: include.item.categories %}
+{% if item_themes %}
   <p class="category-list" aria-label="Themes">
-    {% for category in include.item.categories %}
-      <span>{{ category | escape }}</span>
+    {% for theme in item_themes %}
+      <span>{{ theme | escape }}</span>
     {% endfor %}
   </p>
 {% endif %}

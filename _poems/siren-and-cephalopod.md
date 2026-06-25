@@ -10,6 +10,9 @@ image_credit: "Photo by Panos Lambis"
 image_credit_url: "https://www.flickr.com/photos/25108424@N00/"
 categories:
   - Poetry
+themes:
+  - "Biophysical soul"
+  - "15% of my brain"
 ---
 <div class="verse">
 an aria spray caresses

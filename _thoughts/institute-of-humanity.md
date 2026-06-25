@@ -10,6 +10,10 @@ image_credit: "Raphael, The School of Athens, 1509-1511, Apostolic Palace, Vatic
 image_credit_url: "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
 categories:
   - Thoughts
+themes:
+  - "The all-administrative university"
+  - "Biophysical soul"
+  - "Instead of beauty, branding"
 ---
 An institute of humanity would take persons, not products, as the proper unit of concern.
 

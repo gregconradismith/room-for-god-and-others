@@ -8,6 +8,9 @@ image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 categories:
   - Thoughts
+themes:
+  - "Jesus loves Darwin"
+  - "Read against the machine"
 ---
 Do not trust in presidents and ideologies, traditions and institutions, creativity, ingenuity or goodwill. No human being or organization can truly liberate and heal. These cannot offer pardon and release, not really, and someday you may require forgiveness to carry on.
 
