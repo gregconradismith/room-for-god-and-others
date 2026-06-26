@@ -1111,6 +1111,7 @@ h3 {
   line-height: 1.95;
   margin-inline: auto;
   max-width: 42ch;
+  text-align: left;
 }
 
 .work-main > .poem-body,
@@ -1126,6 +1127,9 @@ h3 {
 
 .verse {
   line-height: 1.9;
+  margin-inline: auto;
+  max-width: 100%;
+  width: max-content;
   white-space: pre-line;
 }
 
