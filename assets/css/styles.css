@@ -1055,6 +1055,12 @@ h3 {
   padding-left: clamp(20px, 3vw, 34px);
 }
 
+.quote-source {
+  color: var(--muted);
+  font-size: 0.95em;
+  margin-top: 1.4em;
+}
+
 .signature-logo {
   display: block;
   margin-top: 22px;

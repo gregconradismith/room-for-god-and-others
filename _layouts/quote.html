@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+{% capture quote_attribution_sample %}--source-marker{% endcapture %}
+{% assign quote_attribution_prefix = quote_attribution_sample | markdownify | replace: "source-marker</p>", "" | strip %}
+{% assign has_body_attribution = false %}
+{% if content contains quote_attribution_prefix %}
+  {% assign has_body_attribution = true %}
+{% elsif page.source %}
+  {% if content contains page.source %}
+    {% assign has_body_attribution = true %}
+  {% endif %}
+{% endif %}
 <article class="work quote-work">
   <header class="work-header">
     <a class="return-link" href="{{ '/voices/' | relative_url }}">Voices</a>
@@ -14,6 +24,9 @@ layout: default
   </header>
   <div class="prose quote-body">
     {{ content }}
+    {% if page.source and has_body_attribution != true %}
+      <p class="quote-source">&ndash;{{ page.source | escape }}</p>
+    {% endif %}
   </div>
   {% include work-navigation.html %}
 </article>
