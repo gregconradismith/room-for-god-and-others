@@ -910,6 +910,7 @@ h3 {
 
 .work-header .feature-image {
   margin: 26px 0 0;
+  width: 50%;
 }
 
 .feature-image img {
@@ -1308,6 +1309,10 @@ figcaption {
 
   .work-header {
     position: static;
+  }
+
+  .work-header .feature-image {
+    width: 100%;
   }
 
   .work-header h1 {
