@@ -1090,6 +1090,7 @@ h3 {
 .poem-body {
   font-size: clamp(1.18rem, 2vw, 1.34rem);
   line-height: 1.95;
+  margin-inline: auto;
   max-width: 42ch;
 }
 
