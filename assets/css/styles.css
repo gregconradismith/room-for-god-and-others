@@ -1059,6 +1059,11 @@ h3 {
   color: var(--muted);
   font-size: 0.95em;
   margin-top: 1.4em;
+  text-align: right;
+}
+
+.quote-body > p:last-child {
+  text-align: right;
 }
 
 .signature-logo {
