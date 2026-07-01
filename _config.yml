@@ -7,7 +7,7 @@ timezone: America/New_York
 css_version: 27
 
 analytics:
-  plausible_domain: ""
+  plausible_domain: "gregconradismith.github.io"
   plausible_src: "https://plausible.io/js/script.js"
 
 author:
