@@ -19,4 +19,4 @@ I was coming of age, and having taken a long pilgrimage, the end of my journey w
 > *First, you die.\
 > Then you are reborn.\
 > Next, you hunt.\
-> Then, only then, do you eat.*”
+> And then, only then, do you eat.*”
