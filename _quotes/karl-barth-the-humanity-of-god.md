@@ -1,6 +1,6 @@
 ---
 layout: quote
-title: "Karl Barth, The Humanity of God"
+title: "Karl Barth, The Gift of Freedom"
 date: 2026-04-27
 excerpt: "The Gift of Freedom. Foundation of Evangelical Ethics."
 image: "/assets/images/quotes/karl-barth-the-humanity-of-god.jpg"
@@ -22,4 +22,4 @@ Secondly: Man's freedom is his as the gift of God. It is the joy wherein man app
 
 Thirdly: Evangelical ethics is the reflection upon the divine call to human action which is implied by the gift of freedom.
 
---Karl Barth, *The Humanity of God* (probably)
+--Karl Barth, "The Gift of Freedom: Foundation of Evangelical Ethics," in *The Humanity of God*
