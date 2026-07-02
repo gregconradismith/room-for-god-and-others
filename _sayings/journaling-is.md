@@ -1,11 +1,11 @@
 ---
-layout: quote
+layout: saying
 title: "Journaling is…"
 date: 2026-04-27
 source: "Greg Conradi Smith"
 excerpt: "Writing from the place of knowing that I am loved."
 categories:
-  - Voices
+  - Sayings
 themes:
   - "15% of my brain"
   - "Jesus loves Darwin"
