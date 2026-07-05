@@ -238,6 +238,16 @@ if featured_path.file?
   end
 end
 
+goodreads_path = ROOT.join("_data/goodreads.yml")
+if goodreads_path.file?
+  goodreads = YAML.safe_load(goodreads_path.read, aliases: false) || {}
+  Array(goodreads["books"]).each do |book|
+    status = book["status"].to_s
+    title = book["title"].to_s
+    errors << "_data/goodreads.yml: Goodreads item is not marked as read: #{title}" unless status.start_with?("Read ")
+  end
+end
+
 warn warnings.join("\n") if warnings.any?
 
 if errors.any?

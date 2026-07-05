@@ -40,14 +40,21 @@ def book_url_for(item)
   clean_book_url(CGI.unescapeHTML(href || element_text(item, "link")))
 end
 
-def status_for(item)
+def currently_reading?(item)
   shelves = element_text(item, "user_shelves")
-  return "Currently reading" if shelves.split(",").map(&:strip).include?("currently-reading")
+  shelves.split(",").map(&:strip).include?("currently-reading")
+end
 
-  read_at = element_text(item, "user_read_at")
-  return "Added #{format_date(element_text(item, "user_date_added"))}" if read_at.empty?
+def read_at_for(item)
+  element_text(item, "user_read_at")
+end
 
-  "Read #{format_date(read_at)}"
+def recently_read?(item)
+  !currently_reading?(item) && !read_at_for(item).empty?
+end
+
+def status_for(item)
+  "Read #{format_date(read_at_for(item))}"
 end
 
 def format_date(value)
@@ -78,6 +85,8 @@ begin
   books = []
 
   REXML::XPath.each(doc, "//item") do |item|
+    next unless recently_read?(item)
+
     books << {
       "title" => element_text(item, "title"),
       "author" => element_text(item, "author_name"),

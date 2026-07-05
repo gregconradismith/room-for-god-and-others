@@ -72,7 +72,7 @@ title: Home
 
 <section class="home-section goodreads-section" aria-labelledby="goodreads-title">
   <div class="section-heading">
-    <p class="eyebrow">Recent reading</p>
+    <p class="eyebrow">Recently read</p>
     <h2 id="goodreads-title">Goodreads</h2>
     <a class="section-link" href="{{ site.data.goodreads.profile_url }}">View profile</a>
   </div>
