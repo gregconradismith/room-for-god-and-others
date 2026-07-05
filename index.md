@@ -14,57 +14,27 @@ title: Home
 
 {% include site-nav.html extra_class="home-nav" %}
 
-<section class="home-section start-section" aria-labelledby="start-title">
-  <div class="section-heading">
-    <p class="eyebrow">Start here</p>
-    <h2 id="start-title">Reading paths</h2>
-    <a class="section-link" href="{{ '/about/' | relative_url }}">About</a>
-  </div>
-  <div class="start-list">
-    {% for item in site.data.start_here.items %}
-      <article class="start-item{% if item.image and item.image != "" %} has-thumbnail{% endif %}">
-        <div class="start-item-copy">
-          <p class="item-type">{{ item.label | escape }}</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          {% if item.excerpt and item.excerpt != "" %}
-            <p>{{ item.excerpt | truncate: 190 | escape }}</p>
-          {% endif %}
-        </div>
-        {% if item.image and item.image != "" %}
-          <a class="start-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}">
-            <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
-          </a>
-        {% endif %}
-      </article>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="home-section daily-quote-section" aria-label="Voice of the day">
-  {% include daily-quote.html compact=true heading="Voice of the day" %}
-</section>
-
 <section class="home-section writing-section" aria-label="Featured writing">
   <div class="writing-list">
     {% for item in site.data.featured_writing.items %}
       <article class="writing-item{% if item.image and item.image != "" %} has-thumbnail{% endif %}">
-        <div class="writing-item-media">
-          <p class="item-type">{{ item.type | escape }}</p>
+        <div class="writing-item-copy">
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          {% if item.image and item.image != "" %}
-            <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position and item.image_position != "" %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
-              <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
-            </a>
+          {% if item.themes %}
+            {% include category-list.html item=item %}
           {% endif %}
-        </div>
-        <div class="writing-item-summary">
+          {% if item.excerpt and item.excerpt != "" %}
+            <p>{{ item.excerpt | strip_html | truncate: 190 | escape }}</p>
+          {% endif %}
           {% if item.date and item.date != "" %}
             <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%b %-d, %Y" }}</time>
           {% endif %}
-          {% if item.excerpt and item.excerpt != "" %}
-            <p>{{ item.excerpt | strip_html | truncate: 170 | escape }}</p>
-          {% endif %}
         </div>
+        {% if item.image and item.image != "" %}
+          <a class="writing-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}" {% if item.image_position and item.image_position != "" %}style="--image-position: {{ item.image_position | escape }};"{% endif %}>
+            <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
+          </a>
+        {% endif %}
       </article>
     {% endfor %}
   </div>

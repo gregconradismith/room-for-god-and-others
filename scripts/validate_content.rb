@@ -235,6 +235,7 @@ if featured_path.file?
     errors << "_data/featured_writing.yml: featured item URL is stale: #{url}" unless urls.include?(url)
     errors << "_data/featured_writing.yml: featured image does not exist: #{image}" if !image.empty? && !ROOT.join(image.sub(%r{\A/}, "")).file?
     errors << "_data/featured_writing.yml: featured image_alt is required for #{url}" if !image.empty? && item["image_alt"].to_s.strip.empty?
+    errors << "_data/featured_writing.yml: featured themes are required for #{url}" if Array(item["themes"]).empty?
   end
 end
 
