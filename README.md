@@ -19,8 +19,8 @@ approved for open access.
 - [writing](https://github.com/gregconradismith/writing) is the broader private
   creative-writing archive for drafts, works in development, submissions, and
   material that may never be public.
-- Raw Evernote `.enex` exports are kept outside Git and should not be committed
-  here.
+- Raw Evernote `.enex` exports are kept outside Git in a Dropbox-synced local
+  folder and should not be committed here.
 
 Only copy material from a private location into this public repository after
 Greg has explicitly approved that material for publication.
