@@ -2,7 +2,6 @@
 layout: thought
 title: "Truth, not commentary"
 date: 2026-04-27
-excerpt: "> God gave me my writing so that I might tell the truth. But the world does not need more opinions. The world needs balm, salve, and a dressing for the wound. There will be no lase"
 image: "/assets/images/thoughts/truth-not-commentary.jpg"
 image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

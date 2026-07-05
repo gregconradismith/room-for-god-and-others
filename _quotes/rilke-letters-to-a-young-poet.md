@@ -2,7 +2,6 @@
 layout: quote
 title: "Rilke, Letters to a Young Poet"
 date: 2026-04-27
-excerpt: "A work of art is good if it has arisen out of necessity. --Rilke."
 image: "/assets/images/quotes/rilke-letters-to-a-young-poet.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

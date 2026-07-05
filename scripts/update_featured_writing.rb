@@ -19,15 +19,15 @@ COLLECTIONS = {
   "_quotes" => { "label" => "Voice", "base" => "/voices" }
 }.freeze
 
-def front_matter(path)
+def front_matter_and_body(path)
   text = path.read
-  return {} unless text.start_with?("---\n")
+  return [{}, text] unless text.start_with?("---\n")
 
-  _opening, yaml, = text.split(/^---\s*$/, 3)
-  YAML.safe_load(yaml, permitted_classes: [Date, Time], aliases: false) || {}
+  _opening, yaml, body = text.split(/^---\s*$/, 3)
+  [YAML.safe_load(yaml, permitted_classes: [Date, Time], aliases: false) || {}, body.to_s]
 rescue Psych::Exception => e
   warn "#{path}: #{e.message}"
-  {}
+  [{}, text]
 end
 
 def slug_for(path, data, config)
@@ -38,15 +38,25 @@ def slug_for(path, data, config)
   "#{config["base"]}/#{slug}/"
 end
 
-def clean_excerpt(value)
-  value.to_s.lines.map { |line| line.sub(/\A\s*>\s?/, "") }.join.strip
+def content_excerpt(markdown, length = 180)
+  text = markdown.to_s
+                 .gsub(/<[^>]+>/, " ")
+                 .lines
+                 .map { |line| line.sub(/\A\s*>\s?/, "") }
+                 .join(" ")
+                 .gsub(/\s+/, " ")
+                 .strip
+
+  return text if text.length <= length
+
+  "#{text[0, length].sub(/\s+\S*\z/, "")}..."
 end
 
 items = []
 
 COLLECTIONS.each do |dir, config|
   ROOT.join(dir).glob("*.md").each do |path|
-    data = front_matter(path)
+    data, body = front_matter_and_body(path)
     title = data["title"].to_s.strip
     next if title.empty?
 
@@ -54,7 +64,7 @@ COLLECTIONS.each do |dir, config|
       "type" => data["draft"] ? "Draft Essay" : config["label"],
       "title" => title,
       "url" => slug_for(path, data, config),
-      "excerpt" => clean_excerpt(data["excerpt"]),
+      "excerpt" => content_excerpt(body),
       "date" => data["date"].to_s,
       "image" => data["image"].to_s,
       "image_alt" => data["image_alt"].to_s,

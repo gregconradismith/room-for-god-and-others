@@ -3,7 +3,6 @@ layout: thought
 title: "Another room for science method"
 date: 2026-06-21
 source: "Greg Conradi Smith"
-excerpt: "A room is not a conclusion; it is a way of refusing premature closure."
 image: "/assets/images/thoughts/another-room-for-science-method.jpg"
 image_alt: "Vilhelm Hammershoi's White Doors, a quiet interior with open doors leading from one room to another."
 image_credit: "Vilhelm Hammershoi, White Doors, Strandgade 25, 1913, via Wikimedia Commons; public domain."

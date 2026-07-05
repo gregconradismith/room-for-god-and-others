@@ -5,7 +5,6 @@ date: 2018-01-01
 category: essay
 permalink: /essays/2018/01/01/why-i-am-perhaps-not-an-evangelical/
 reading_time: "16 min read"
-excerpt: "A personal essay on science, faith, evangelical identity, and the difficulty of sharing inherited labels."
 image: /assets/images/essays/why-i-am-perhaps-not-an-evangelical.jpg
 image_alt: "Two young cyclists seated by a mountain lake, seeing the same mountain differently."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

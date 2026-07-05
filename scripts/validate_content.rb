@@ -122,13 +122,11 @@ if theme_data_path.file?
   Array(themes).each do |theme|
     title = theme["title"].to_s.strip
     slug = theme["slug"].to_s.strip
-    description = theme["description"].to_s.strip
     image = theme["image"].to_s.strip
     image_credit = theme["image_credit"].to_s.strip
 
     errors << "_data/writing_categories.yml: theme title is required" if title.empty?
     errors << "_data/writing_categories.yml: theme slug is required for #{title}" if slug.empty?
-    errors << "_data/writing_categories.yml: theme description is required for #{title}" if description.empty?
     unless image.empty?
       image_path = normalized_local_path(image)
       errors << "_data/writing_categories.yml: theme image does not exist for #{title}: #{image}" unless ROOT.join(image_path).file?
@@ -148,6 +146,9 @@ content_paths(COLLECTION_GLOBS).each do |path|
   rel = path.relative_path_from(ROOT).to_s
   title = data["title"].to_s.strip
   titles[title.downcase] << rel unless title.empty?
+  if data.key?("excerpt")
+    errors << "#{rel}: remove excerpt front matter; listing previews are derived from the body text"
+  end
   content_date = date_only(data["date"])
   if content_date && content_date > TODAY
     errors << "#{rel}: date #{content_date} is in the future for the site timezone; Jekyll may list it without outputting its page"

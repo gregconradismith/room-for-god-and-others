@@ -2,7 +2,6 @@
 layout: page
 title: Voice of the day
 permalink: /voice-of-the-day/
-description: A daily path into the voice archive.
 ---
 
 {% include daily-quote.html heading="Voice of the day" %}

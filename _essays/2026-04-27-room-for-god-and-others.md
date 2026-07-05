@@ -5,7 +5,6 @@ date: 2026-04-27
 category: essay
 permalink: /essays/2026/04/27/room-for-god-and-others/
 reading_time: "28 min read"
-excerpt: "A narrative essay on science, higher education, faith, and making room for God and others in value-laden conversations."
 image: /assets/images/essays/room-for-god-and-others.jpg
 image_alt: "A solitary professor walking from modern campus paths toward older historical buildings."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

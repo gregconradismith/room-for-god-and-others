@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-description: Essays, poems, thoughts, sayings, and voices.
 hide_eyebrow: true
 ---
 

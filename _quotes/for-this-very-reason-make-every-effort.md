@@ -3,7 +3,6 @@ layout: quote
 title: "For this very reason, make every effort…"
 date: 2026-06-21
 source: "2 Peter 1:5-8"
-excerpt: "For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge; and to knowledge, self-control; and to self-control, perseverance; a..."
 image: "/assets/images/quotes/for-this-very-reason-make-every-effort.jpg"
 image_alt: "Emmanouil Tzanes's icon The Ladder of Divine Ascent, showing figures climbing a ladder toward Christ."
 image_credit: "Emmanouil Tzanes, The Ladder of Divine Ascent, 1663, via Wikimedia Commons; public domain."

@@ -2,7 +2,6 @@
 layout: quote
 title: "Miroslav Krleža, On the Edge of Reason"
 date: 2026-04-27
-excerpt: "Had I not come to a turn in this account that could be described as a fatal one, according to a mysterious law of human folly, in all probability I would have spent my whole life o"
 image: "/assets/images/quotes/miroslav-krleza-on-the-edge-of-reason.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

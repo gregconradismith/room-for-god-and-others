@@ -26,7 +26,9 @@ title: Home
         <div class="start-item-copy">
           <p class="item-type">{{ item.label | escape }}</p>
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.excerpt | escape }}</p>
+          {% if item.excerpt and item.excerpt != "" %}
+            <p>{{ item.excerpt | truncate: 190 | escape }}</p>
+          {% endif %}
         </div>
         {% if item.image and item.image != "" %}
           <a class="start-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}">

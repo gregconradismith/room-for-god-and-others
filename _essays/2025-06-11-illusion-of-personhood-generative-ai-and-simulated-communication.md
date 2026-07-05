@@ -5,7 +5,6 @@ date: 2025-06-11
 category: essay
 permalink: /essays/2025/06/11/illusion-of-personhood-generative-ai-and-simulated-communication/
 reading_time: "18 min read"
-excerpt: "Generative AI systems imitate human dialogue, creating the illusion of personhood that can mislead users and distort perceptions of agency. Generative AI may undermine communicative norms by substituting fluency for relationship. As AI systems become deeply embedded cultural technologies in everyday life, we must critically examine their design and deployment, not just for their efficiency, but also for their impact on human dignity, responsibility, and the ethics of dialogue."
 image: /assets/images/essays/illusion-of-personhood-generative-ai-and-simulated-communication.jpg
 image_alt: "An empty chair facing a glowing screen with an ambiguous human-like reflection."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

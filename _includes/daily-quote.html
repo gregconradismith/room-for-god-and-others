@@ -14,7 +14,8 @@
     <p class="eyebrow">{{ include.heading | default: "Voice of the day" | escape }}</p>
     <h2><a href="{{ quote_of_day.url | relative_url }}">{{ quote_of_day.title | escape }}</a></h2>
     {% if include.compact %}
-      <p>{{ quote_of_day.excerpt | default: quote_of_day.content | strip_html | normalize_whitespace | truncate: 280 | escape }}</p>
+      {% assign quote_preview = quote_of_day.content | strip_html | normalize_whitespace %}
+      <p>{{ quote_preview | truncate: 280 | escape }}</p>
     {% else %}
       <div class="daily-quote-text">
         {{ quote_of_day.content }}

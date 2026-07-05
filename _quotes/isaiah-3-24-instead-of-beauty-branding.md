@@ -3,7 +3,6 @@ layout: quote
 title: "Instead of beauty, branding"
 date: 2026-06-25
 source: "Isaiah 3:24 (NIV)"
-excerpt: "Instead of fragrance there will be a stench; instead of a sash, a rope; instead of well-dressed hair, baldness; instead of fine clothing, sackcloth; instead of beauty, branding."
 categories:
   - Voices
 themes:

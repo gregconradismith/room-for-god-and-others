@@ -2,7 +2,6 @@
 layout: thought
 title: "Writing and the research process"
 date: 2026-04-27
-excerpt: "In my experience of the research process, I cannot force scientific and mathematical ideas to emerge. Perhaps, in the same way, I cannot force a story."
 image: "/assets/images/thoughts/part-of-my-problem-with-writing-is.jpg"
 image_alt: "The Flammarion woodcut, showing a traveler kneeling at the edge of the world and looking beyond the sky."
 image_credit: "Unknown artist, Flammarion woodcut, first published in Camille Flammarion's L'atmosphere, 1888, via Wikimedia Commons; public domain."

@@ -3,7 +3,6 @@ layout: thought
 title: "August 19 writing question"
 date: 2026-06-21
 source: "Greg Conradi Smith"
-excerpt: "The question is not whether I have something to say, but whether I will make a form hospitable enough to receive it."
 categories:
   - Thoughts
 themes:

@@ -2,7 +2,6 @@
 layout: quote
 title: "William James"
 date: 2026-04-27
-excerpt: "As for me, my bed is made: I am against bigness and greatness in all their forms, and with the invisible molecular forces that work from individual to individual, stealing through "
 image: "/assets/images/quotes/william-james.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

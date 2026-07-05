@@ -2,7 +2,6 @@
 layout: quote
 title: "Roland Barthes"
 date: 2026-04-27
-excerpt: "I don't share the traditional belief that there's a divorce in nature between the objectivity of the scientist and the subjectivity of the writer..."
 image: "/assets/images/quotes/roland-barthes.jpg"
 image_alt: "A personal doodle illustration selected for this voice."
 image_credit: "Photograph by Greg Conrad Smith of artwork, 2026."

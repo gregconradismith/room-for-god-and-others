@@ -2,7 +2,6 @@
 layout: quote
 title: "Rick Rubin"
 date: 2026-04-27
-excerpt: "The best work is the work you are excited about."
 image: "/assets/images/quotes/rick-rubin.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

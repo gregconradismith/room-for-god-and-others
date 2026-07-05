@@ -3,7 +3,6 @@ layout: quote
 title: "Masters and servants"
 date: 2026-06-27
 source: "William Morris, How We Live and How We Might Live"
-excerpt: "It is the allowing machines to be our masters and not our servants that so injures the beauty of life nowadays."
 categories:
   - Voices
 themes:

@@ -20,7 +20,7 @@ permalink: /voices/feed.xml
         {% if quote.date %}
           <pubDate>{{ quote.date | date_to_rfc822 }}</pubDate>
         {% endif %}
-        <description>{{ quote.excerpt | default: quote.content | strip_html | normalize_whitespace | xml_escape }}</description>
+        <description>{{ quote.content | strip_html | normalize_whitespace | xml_escape }}</description>
       </item>
     {% endfor %}
   </channel>

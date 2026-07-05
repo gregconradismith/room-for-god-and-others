@@ -2,7 +2,6 @@
 layout: thought
 title: "Co-opting the flag"
 date: 2026-04-27
-excerpt: "I have been amazed at the way the alt-right has co-opted not only the flag, but phrases such as totalitarian or Orwellian."
 image: "/assets/images/thoughts/co-opting-the-flag-owl-butterfly.jpg"
 image_alt: "An owl butterfly."
 image_credit: "Photograph by Greg Conrad Smith, 2026."

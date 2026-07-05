@@ -3,7 +3,6 @@ layout: poem
 title: "Siren and Cephalopod"
 subtitle: "After reading Philip Larkin’s _Mythical Introduction_"
 date: 2026-06-14
-excerpt: "A poem beginning: “an aria spray caresses”"
 image: /assets/images/poems/siren-and-cephalopod.jpg
 image_alt: "A dark-haired figure in white stands on a stormy shore beside draped cloth and a skull."
 image_credit: "Photo by Panos Lambis"

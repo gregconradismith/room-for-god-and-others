@@ -2,7 +2,6 @@
 layout: thought
 title: "Democracy and the invisible hand"
 date: 2026-04-27
-excerpt: "Can we really expect democracy to work when so many people are not even trying?"
 image: "/assets/images/thoughts/democracy-and-the-invisible-hand.jpg"
 image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

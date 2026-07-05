@@ -2,7 +2,6 @@
 layout: quote
 title: "Steven Pressfield, The War of Art"
 date: 2026-04-27
-excerpt: "Look in your own heart. Unless I'm crazy, right now a still small voice is piping up, telling you as it has ten thousand times the calling that is yours and yours alone. You know i"
 image: "/assets/images/quotes/steven-pressfield-the-war-of-art.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

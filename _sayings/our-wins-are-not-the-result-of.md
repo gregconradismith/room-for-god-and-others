@@ -3,7 +3,6 @@ layout: saying
 title: "Our wins are not the result of religious superiority…"
 date: 2026-06-21
 source: "Greg Conradi Smith"
-excerpt: "Our wins are not the result of religious superiority; our defeats do not signal loss of God’s favor."
 image: "/assets/images/sayings/our-wins-are-not-the-result-of.jpg"
 image_alt: "AI-generated editorial illustration selected for this saying."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

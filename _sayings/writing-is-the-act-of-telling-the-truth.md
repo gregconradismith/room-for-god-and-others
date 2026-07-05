@@ -3,7 +3,6 @@ layout: saying
 title: "Writing is the act of telling the truth"
 date: 2026-06-20
 source: "Greg Conradi Smith"
-excerpt: "For me, writing is the act of telling the truth."
 image: "/assets/images/sayings/writing-is-the-act-of-telling-the-truth.jpg"
 image_alt: "AI-generated editorial illustration selected for this saying."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

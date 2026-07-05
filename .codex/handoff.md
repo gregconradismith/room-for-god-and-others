@@ -153,6 +153,10 @@ pages, images, and small Ruby helper scripts for the Pages workflow.
 - Generated theme subtitles were removed from both `_data/writing_categories.yml`
   and the individual `themes/*.md` pages. If Greg asks about unexpected text,
   search both the data file and the page front matter.
+- Greg does not want AI-generated written subtitles, teasers, descriptions,
+  summaries, or `excerpt` front matter in this site. AI-generated images remain
+  okay with attribution. Public-facing written previews should be actual text
+  from the linked work or should be omitted.
 - The homepage hero eyebrow now reads
   `Thoughts on science, faith, and pluralism`.
 - Recent successful commits from the 2026-06-24 visual/content pass include

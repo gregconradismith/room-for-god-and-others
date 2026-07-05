@@ -2,7 +2,6 @@
 layout: quote
 title: "J.P. Stern on Canetti"
 date: 2026-04-27
-excerpt: "To conclude that Canetti's use in his book Crowd's and Power of the method of philosophical anthropology is uncritical – that is, unphilosophical – is to advert to the fact that at"
 image: "/assets/images/quotes/j-p-stern-on-canetti.jpg"
 image_alt: "AI-generated editorial illustration selected for this voice."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

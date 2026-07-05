@@ -57,7 +57,6 @@ layout: essay
 title: "A New Essay"
 date: 2026-06-14
 category: essay
-excerpt: "A short summary for listing pages."
 categories:
   - Essays
 themes:
@@ -71,6 +70,8 @@ Use `categories` for the broad collection label shown by genre, and use
 `themes` for one or more entries from `_data/writing_categories.yml`.
 Voices must include an attribution, either in `source` front matter or as
 a trailing Markdown line beginning with `--`.
+Listing previews are derived from the body of each work; do not add
+summary-style `excerpt` front matter.
 
 Images are rendered from front matter when `image` is set. Use `image_alt` for accessible alt text, and optionally use `image_position` to adjust thumbnail cropping:
 

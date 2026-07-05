@@ -24,7 +24,8 @@ items:
 - type: Poem
   title: After Reading Dostoevsky
   url: "/poetry/after-reading-dostoevsky/"
-  excerpt: 'A poem beginning: “I confessed I was a thief.”'
+  excerpt: I confessed I was a thief. You called me a liar. “I forgive you,” you said,
+    Because your heart is good.” Murderer.
   date: '2026-06-14'
   image: "/assets/images/poems/after-reading-dostoevsky.jpg"
   image_alt: Two shadowed figures at a table in a dim room, one confessing with open
