@@ -1,10 +1,58 @@
 # Codex Handoff
 
-Date: 2026-06-25
+Date: 2026-07-05
 
 Repo: `room-for-god-and-others`
 
 Branch: `main`
+
+<!-- codex-transfer-snapshot-2026-07-05:start -->
+## 2026-07-05 Computer Transfer Snapshot
+
+- Checked on 2026-07-05 at 19:18 EDT from
+  `/Users/gregconradismith/Git/room-for-god-and-others` before changing
+  computers.
+- Branch: `main`, tracking `origin/main`.
+- Origin: `git@github.com:gregconradismith/room-for-god-and-others.git`
+- Latest commit before this handoff update: `313dcf3 Remove Room for God thought`.
+- Working tree was clean before editing `AGENTS.md` and this handoff file.
+- Validation immediately before the handoff edit:
+  `ruby scripts/validate_content.rb` printed `Content references look good.`
+
+Recent public-site state to preserve:
+
+- Greg does not want AI-generated written subtitles, summaries, descriptions,
+  teaser copy, or `excerpt` front matter for published writing. AI-generated
+  images are okay with attribution. Listing previews should be derived from the
+  body text or omitted.
+- All published collection items now need images. On 2026-07-05, twelve missing
+  collection images were generated and added for sayings, thoughts, and voices;
+  `scripts/validate_content.rb` now fails collection items missing `image`
+  front matter.
+- `assets/images/AI_ATTRIBUTIONS.md` is the public ledger for generated images;
+  keep it updated when adding AI-generated image assets.
+- Homepage Goodreads should show only recently read books. Do not reintroduce a
+  "Currently Reading" category.
+- Homepage writing previews are boxed cards generated from
+  `_data/featured_writing.yml` by `scripts/update_featured_writing.rb`. Cards
+  use collection-derived kind labels (`Essay`, `Poem`, `Saying`, `Thought`,
+  `Quote`) and existing theme category chips. Do not add generated red
+  small-caps subtitles or other generated teaser labels.
+- The homepage "Reading Paths" row and "Voice of the Day" section were removed.
+  Do not restore them unless Greg explicitly asks.
+- The homepage title `Room for God & Others` was adjusted in commit `cb36135`
+  so it stays on one line when there is room; current cache-busting value is
+  `css_version: 30`.
+- The Pages workflow for `cb36135` initially hit a transient GitHub Pages deploy
+  failure (`Deployment failed, try again later` after `syncing_files`), then
+  succeeded after rerunning the failed deploy job.
+
+Status before this handoff edit:
+
+```bash
+## main...origin/main
+```
+<!-- codex-transfer-snapshot-2026-07-05:end -->
 
 <!-- codex-transfer-snapshot-2026-06-25:start -->
 ## 2026-06-25 Computer Transfer Snapshot

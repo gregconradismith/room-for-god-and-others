@@ -17,8 +17,19 @@ This site is built by GitHub Actions, not by installing or running Jekyll locall
   descriptions, or `excerpt` front matter for published writing. AI-generated
   images are okay when properly attributed, but public-facing written previews
   should come from the work itself or be omitted.
+- Every published collection item in `_essays`, `_poems`, `_sayings`,
+  `_thoughts`, and `_quotes` should have `image`, `image_alt`, and
+  `image_credit` front matter. `scripts/validate_content.rb` enforces this so
+  randomized homepage previews never render without art.
 - Goodreads homepage data is refreshed during the GitHub Pages workflow by `scripts/update_goodreads.rb`; `_data/goodreads.yml` is the committed fallback snapshot.
+- Goodreads homepage data should show only recently read books, not a
+  "Currently Reading" category.
 - The homepage writing list is randomized during the GitHub Pages workflow by `scripts/update_featured_writing.rb`; `_data/featured_writing.yml` is the committed fallback snapshot.
+- Homepage writing cards should use the collection-derived small-caps kind
+  labels (`Essay`, `Poem`, `Saying`, `Thought`, `Quote`) and the existing theme
+  categories. Do not add generated subtitle or teaser text to those cards.
+- Do not restore the old homepage "Reading Paths" row or "Voice of the Day"
+  section unless Greg explicitly asks for them.
 - Do not run `bundle install`, install Jekyll gems, or create local Bundler artifacts in this repository.
 - Do not add `vendor/bundle`, `.bundle/`, or `Gemfile.lock`.
 - Markdown-to-HTML conversion should happen in GitHub Actions after pushing to GitHub Pages.
