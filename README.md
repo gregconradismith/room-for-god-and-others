@@ -6,6 +6,25 @@ Live site: https://gregconradismith.github.io/room-for-god-and-others/
 
 This repository is set up as a small Jekyll site, which GitHub Pages can build directly.
 
+## Related Writing Locations
+
+This public repository is the publication target for writing that has been
+approved for open access.
+
+- [Live public site](https://gregconradismith.github.io/room-for-god-and-others/)
+  is built from this repository.
+- [room-for-god-and-others-private](https://github.com/gregconradismith/room-for-god-and-others-private)
+  is the private staging and preview repository for Markdown pieces that may
+  later be copied or moved here.
+- [writing](https://github.com/gregconradismith/writing) is the broader private
+  creative-writing archive for drafts, works in development, submissions, and
+  material that may never be public.
+- Raw Evernote `.enex` exports are kept outside Git and should not be committed
+  here.
+
+Only copy material from a private location into this public repository after
+Greg has explicitly approved that material for publication.
+
 ## Writing
 
 - Essays live in `_essays/` as dated Markdown files.

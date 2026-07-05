@@ -3,9 +3,16 @@
 This site is built by GitHub Actions, not by installing or running Jekyll locally.
 
 - This public repository was recreated with clean history on 2026-06-18. Do not push from older local clones that still contain pre-reset history.
+- This repository is the public publication target. Private drafts and staging
+  work may live in `room-for-god-and-others-private`; broader private writing
+  archive material may live in `writing`; raw local exports may live outside Git
+  in `/Users/gregconradismith/Main/Personal/Writing`.
 - Keep `.codex/handoff.md` public-safe. Do not add private triage details,
   private-only writing inventories, or private-repo content to this public
   repository.
+- Do not copy private material or raw local export material into this public
+  repository unless Greg explicitly approves that specific piece for
+  publication.
 - Goodreads homepage data is refreshed during the GitHub Pages workflow by `scripts/update_goodreads.rb`; `_data/goodreads.yml` is the committed fallback snapshot.
 - The homepage writing list is randomized during the GitHub Pages workflow by `scripts/update_featured_writing.rb`; `_data/featured_writing.yml` is the committed fallback snapshot.
 - Do not run `bundle install`, install Jekyll gems, or create local Bundler artifacts in this repository.
