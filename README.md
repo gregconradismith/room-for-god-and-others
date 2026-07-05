@@ -21,8 +21,8 @@ approved for open access.
   material that may never be public.
 - Raw writing exports, including Evernote `.enex` files and original
   Overleaf/source export folders or zips, are kept outside Git in
-  `/Users/gregconradismith/Main/Personal/Writing`, which is inside the
-  Dropbox-synced `/Users/gregconradismith/Main/` folder.
+  `~/Main/Personal/Writing`, which is inside the Dropbox-synced `~/Main/`
+  folder.
 
 Only copy material from a private location into this public repository after
 Greg has explicitly approved that material for publication.

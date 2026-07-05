@@ -6,8 +6,7 @@ This site is built by GitHub Actions, not by installing or running Jekyll locall
 - This repository is the public publication target. Private drafts and staging
   work may live in `room-for-god-and-others-private`; broader private writing
   archive material may live in `writing`; raw local exports may live outside Git
-  in `/Users/gregconradismith/Main/Personal/Writing`. The parent
-  `/Users/gregconradismith/Main/` folder is Dropbox-synced.
+  in `~/Main/Personal/Writing`. The parent `~/Main/` folder is Dropbox-synced.
 - Keep `.codex/handoff.md` public-safe. Do not add private triage details,
   private-only writing inventories, or private-repo content to this public
   repository.
