@@ -24,6 +24,7 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/poems/the-wounded-statue.jpg`
 - `assets/images/poems/there-once-was-a-girl-from-tallahassee.jpg`
 - `assets/images/quotes/albert-schweitzer.jpg`
+- `assets/images/quotes/alexis-de-tocqueville-democracy-in-america.jpg`
 - `assets/images/quotes/arn-anderson.jpg`
 - `assets/images/quotes/baruch-spinoza.jpg`
 - `assets/images/quotes/blaise-pascal-2.jpg`
@@ -33,16 +34,21 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/quotes/darpa-broad-agency-announcement.jpg`
 - `assets/images/quotes/edward-o-wilson.jpg`
 - `assets/images/quotes/faith-is-the-substance-of-things-hoped.jpg`
+- `assets/images/quotes/francis-bacon-of-studies.jpg`
 - `assets/images/quotes/frederick-buechner-2.jpg`
 - `assets/images/quotes/fyodor-dostoevsky-the-brothers-karamazov.jpg`
 - `assets/images/quotes/gabriel-chevallier-fear.jpg`
 - `assets/images/quotes/h-l-mencken.jpg`
+- `assets/images/quotes/henry-david-thoreau-walden.jpg`
 - `assets/images/quotes/hope.jpg`
+- `assets/images/quotes/isaiah-3-24-instead-of-beauty-branding.jpg`
 - `assets/images/quotes/isaiah-50-4.jpg`
 - `assets/images/quotes/j-p-stern-on-canetti.jpg`
 - `assets/images/quotes/johann-von-goethe.jpg`
 - `assets/images/quotes/john-16-33.jpg`
+- `assets/images/quotes/john-henry-newman-idea-of-a-university.jpg`
 - `assets/images/quotes/john-mayer-split-screen-sadness.jpg`
+- `assets/images/quotes/john-stuart-mill-on-liberty.jpg`
 - `assets/images/quotes/karl-barth-the-humanity-of-god.jpg`
 - `assets/images/quotes/kerry-ann-rockquemore-monday-motivator.jpg`
 - `assets/images/quotes/leszek-kolakowski.jpg`
@@ -60,6 +66,7 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/quotes/rick-rubin.jpg`
 - `assets/images/quotes/rilke-letters-to-a-young-poet.jpg`
 - `assets/images/quotes/ronald-beiner.jpg`
+- `assets/images/quotes/saint-augustine-confessions.jpg`
 - `assets/images/quotes/seeing-jesus.jpg`
 - `assets/images/quotes/stellan-ohlsson.jpg`
 - `assets/images/quotes/steven-pressfield-the-war-of-art.jpg`
@@ -67,7 +74,10 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/quotes/tripp-york.jpg`
 - `assets/images/quotes/virginia-woolf-a-room-of-one-s-own.jpg`
 - `assets/images/quotes/william-james.jpg`
+- `assets/images/quotes/william-morris-how-we-live.jpg`
+- `assets/images/sayings/journaling-is.jpg`
 - `assets/images/sayings/our-wins-are-not-the-result-of.jpg`
+- `assets/images/sayings/technical-proficiency-is-not-an-escape-clause.jpg`
 - `assets/images/sayings/we-talk-of-a-personal-relationship-with.jpg`
 - `assets/images/sayings/writing-is-the-act-of-telling-the-truth.jpg`
 - `assets/images/themes/15-percent-of-my-brain.jpg`
@@ -77,6 +87,7 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/themes/jesus-loves-darwin.jpg`
 - `assets/images/themes/read-against-the-machine.jpg`
 - `assets/images/themes/the-all-administrative-university.jpg`
+- `assets/images/thoughts/august-19-writing-question.jpg`
 - `assets/images/thoughts/democracy-and-the-invisible-hand.jpg`
 - `assets/images/thoughts/eco-on-fascism-sounds-to-me-like-trump.jpg`
 - `assets/images/thoughts/following-directions.jpg`
@@ -87,5 +98,6 @@ The image files listed below were generated with ChatGPT by OpenAI, prompted and
 - `assets/images/thoughts/scientism-is-bad-religion.jpg`
 - `assets/images/thoughts/the-ability-to-see-goodness.jpg`
 - `assets/images/thoughts/the-blessing-of-t-pau-a-dream.jpg`
+- `assets/images/thoughts/three-enemies.jpg`
 - `assets/images/thoughts/truth-not-commentary.jpg`
 - `assets/images/thoughts/two-mountains.jpg`

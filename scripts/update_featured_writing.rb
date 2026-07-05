@@ -12,11 +12,11 @@ DATA_PATH = ROOT.join("_data/featured_writing.yml")
 ITEM_LIMIT = 6
 
 COLLECTIONS = {
-  "_essays" => { "base" => "/essays", "use_title_permalink" => true },
-  "_poems" => { "base" => "/poetry" },
-  "_sayings" => { "base" => "/sayings" },
-  "_thoughts" => { "base" => "/thoughts" },
-  "_quotes" => { "base" => "/voices" }
+  "_essays" => { "base" => "/essays", "use_title_permalink" => true, "kind" => "Essay" },
+  "_poems" => { "base" => "/poetry", "kind" => "Poem" },
+  "_sayings" => { "base" => "/sayings", "kind" => "Saying" },
+  "_thoughts" => { "base" => "/thoughts", "kind" => "Thought" },
+  "_quotes" => { "base" => "/voices", "kind" => "Quote" }
 }.freeze
 
 def front_matter_and_body(path)
@@ -63,6 +63,7 @@ COLLECTIONS.each do |dir, config|
     items << {
       "title" => title,
       "url" => slug_for(path, data, config),
+      "kind" => config["kind"],
       "excerpt" => content_excerpt(body),
       "themes" => Array(data["themes"]).map(&:to_s),
       "date" => data["date"].to_s,

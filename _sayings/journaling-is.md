@@ -8,6 +8,9 @@ categories:
 themes:
   - "15% of my brain"
   - "Jesus loves Darwin"
+image: "/assets/images/sayings/journaling-is.jpg"
+image_alt: "A warm desk scene with an open journal, fountain pen, candle, and morning light."
+image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."
 ---
 Writing from the place of knowing that I am loved.
 

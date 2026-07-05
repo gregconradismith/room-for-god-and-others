@@ -208,6 +208,10 @@ a:hover {
   color: #f0dcc3;
 }
 
+.writing-item .writing-kind {
+  color: var(--accent-2);
+}
+
 h1,
 h2,
 h3,

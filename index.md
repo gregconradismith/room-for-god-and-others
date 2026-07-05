@@ -19,6 +19,9 @@ title: Home
     {% for item in site.data.featured_writing.items %}
       <article class="writing-item{% if item.image and item.image != "" %} has-thumbnail{% endif %}">
         <div class="writing-item-copy">
+          {% if item.kind and item.kind != "" %}
+            <p class="item-type writing-kind">{{ item.kind | escape }}</p>
+          {% endif %}
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
           {% if item.themes %}
             {% include category-list.html item=item %}

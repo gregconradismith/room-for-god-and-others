@@ -1,78 +1,79 @@
 ---
 updated: '2026-07-05'
 items:
-- title: Masters and servants
-  url: "/voices/william-morris-how-we-live/"
-  excerpt: It is the allowing machines to be our masters and not our servants that
-    so injures the beauty of life nowadays. --William Morris, *How We Live and How
-    We Might Live*
+- title: What to write and the question of voice
+  url: "/thoughts/what-to-write-and-the-question-of-voice/"
+  kind: Thought
+  excerpt: I've heard it said, "Write the book that you would wish to read." Of those
+    books that have meant a lot to me, the first that comes to mind is *Indiscrete
+    Thoughts* by Gian-Carlo...
   themes:
+  - 15% of my brain
   - Read against the machine
-  - Instead of beauty, branding
-  date: '2026-06-27'
-  image: ''
-  image_alt: ''
-  image_position: ''
-- title: Online Dating, Wholly in Haiku
-  url: "/poetry/online-dating-wholly-in-haiku/"
-  excerpt: 'HER: Would anyone mind if I composed this profile wholly in haiku? As
-    you may suspect, I’m a little different from most girls you meet. Gifted in music.
-    If you want to fall in...'
-  themes:
-  - Biophysical soul
-  - 15% of my brain
-  date: '2026-06-14'
-  image: "/assets/images/poems/online-dating-wholly-in-haiku.jpg"
-  image_alt: A desk with an abstract laptop profile, microphone, music, and blank
-    haiku slips.
-  image_position: ''
-- title: Writing and the research process
-  url: "/thoughts/part-of-my-problem-with-writing-is/"
-  excerpt: Part of my problem with writing is the continual demand to create, to be
-    novel and fresh. In my experience of the research process, I cannot force scientific
-    and mathematical...
-  themes:
-  - 15% of my brain
+  - The all-administrative university
   - Abusing notation
   date: '2026-04-27'
-  image: "/assets/images/thoughts/part-of-my-problem-with-writing-is.jpg"
-  image_alt: The Flammarion woodcut, showing a traveler kneeling at the edge of the
-    world and looking beyond the sky.
+  image: "/assets/images/thoughts/what-to-write-and-the-question-of-voice.png"
+  image_alt: Johannes Vermeer's painting A Lady Writing, showing a woman pausing with
+    pen in hand at a writing desk.
   image_position: ''
-- title: After Reading Dostoevsky
-  url: "/poetry/after-reading-dostoevsky/"
-  excerpt: I confessed I was a thief. You called me a liar. “I forgive you,” you said,
-    Because your heart is good.” Murderer.
+- title: Mircea Cărtărescu
+  url: "/voices/mircea-cartarescu/"
+  kind: Quote
+  excerpt: In capitalism, man exploits man. In communism, it's the other way around.
+    --Mircea Cărtărescu, *Solenoid*
+  themes:
+  - Read against the machine
+  date: '2026-04-27'
+  image: "/assets/images/quotes/mircea-cartarescu.jpg"
+  image_alt: AI-generated editorial illustration selected for this voice.
+  image_position: ''
+- title: William Barclay
+  url: "/voices/william-barclay/"
+  kind: Quote
+  excerpt: When we speak for Christ we must speak as if Christ is listening -- as
+    indeed he is. --William Barclay
+  themes:
+  - Jesus loves Darwin
+  - Read against the machine
+  date: '2026-04-27'
+  image: "/assets/images/quotes/william-barclay.jpg"
+  image_alt: A personal doodle illustration selected for this voice.
+  image_position: ''
+- title: The ability to see goodness
+  url: "/thoughts/the-ability-to-see-goodness/"
+  kind: Thought
+  excerpt: When I worked at Learning Experiences, Inc., we sometimes took the students
+    to the mall. I recall one afternoon when the students were having fun together,
+    walking arm-and-arm in...
+  themes:
+  - Biophysical soul
+  - Instead of beauty, branding
+  date: '2026-04-27'
+  image: "/assets/images/thoughts/the-ability-to-see-goodness.jpg"
+  image_alt: AI-generated editorial illustration selected for this thought.
+  image_position: ''
+- title: Anxiety grins
+  url: "/poetry/anxiety-grins/"
+  kind: Poem
+  excerpt: Anxiety grins I kneel and pray No teeth
   themes:
   - Biophysical soul
   - 15% of my brain
   date: '2026-06-14'
-  image: "/assets/images/poems/after-reading-dostoevsky.jpg"
-  image_alt: Two shadowed figures at a table in a dim room, one confessing with open
-    hands.
+  image: "/assets/images/poems/anxiety-grins.jpg"
+  image_alt: A kneeling figure praying beside a shadow that almost forms a toothless
+    grin.
   image_position: ''
-- title: Charles Whitfield, Healing the Child Within
-  url: "/voices/charles-whitfield-healing-the-child-within/"
-  excerpt: One reason is that the mother herself is so impoverished and needy that
-    she uses her infant to satisfy her own unmet needs. This is an amazing thing about
-    infants. They can sense...
+- title: Corporations are not people
+  url: "/sayings/corporations-are-not-people/"
+  kind: Saying
+  excerpt: I hold these truths to be self-evident. (1) Corporations are not people.
+    (2) Money is not speech.
   themes:
-  - Biophysical soul
+  - Instead of beauty, branding
+  - Read against the machine
   date: '2026-04-27'
-  image: "/assets/images/quotes/charles-whitfield-healing-the-child-within.jpg"
-  image_alt: AI-generated editorial illustration selected for this voice.
-  image_position: ''
-- title: Room for God and Others is more vision than discursive thought
-  url: "/thoughts/room-for-god-and-others-is-more/"
-  excerpt: "*Room for God and Others* is more vision than discursive thought. I imagine
-    the cover is a watercolor painting of a country road. There is a feeling of goodness
-    and honoring God...."
-  themes:
-  - 15% of my brain
-  - Jesus loves Darwin
-  - Biophysical soul
-  date: '2026-04-27'
-  image: "/assets/images/thoughts/room-for-god-and-others-is-more.jpg"
-  image_alt: A long view across the Sunken Garden toward the Wren Building at William
-    & Mary.
+  image: "/assets/images/sayings/corporations-are-not-people.jpg"
+  image_alt: A turtle shell on a neutral background.
   image_position: ''

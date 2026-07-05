@@ -153,6 +153,7 @@ content_paths(COLLECTION_GLOBS).each do |path|
   if content_date && content_date > TODAY
     errors << "#{rel}: date #{content_date} is in the future for the site timezone; Jekyll may list it without outputting its page"
   end
+  errors << "#{rel}: image is required for collection items so homepage previews never render without art" if data["image"].to_s.strip.empty?
 
   themes = Array(data["themes"]).map { |theme| theme.to_s.strip }.reject(&:empty?)
   errors << "#{rel}: themes must include at least one writing theme" if themes.empty?
@@ -235,6 +236,7 @@ if featured_path.file?
     errors << "_data/featured_writing.yml: featured item URL is stale: #{url}" unless urls.include?(url)
     errors << "_data/featured_writing.yml: featured image does not exist: #{image}" if !image.empty? && !ROOT.join(image.sub(%r{\A/}, "")).file?
     errors << "_data/featured_writing.yml: featured image_alt is required for #{url}" if !image.empty? && item["image_alt"].to_s.strip.empty?
+    errors << "_data/featured_writing.yml: featured kind is required for #{url}" if item["kind"].to_s.strip.empty?
     errors << "_data/featured_writing.yml: featured themes are required for #{url}" if Array(item["themes"]).empty?
   end
 end
