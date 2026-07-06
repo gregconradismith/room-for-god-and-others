@@ -13,12 +13,12 @@ approved for open access.
 
 - [Live public site](https://gregconradismith.github.io/room-for-god-and-others/)
   is built from this repository.
-- [room-for-god-and-others-private](https://github.com/gregconradismith/room-for-god-and-others-private)
-  is the private staging and preview repository for Markdown pieces that may
-  later be copied or moved here.
-- [writing](https://github.com/gregconradismith/writing) is the broader private
+- [writing](https://github.com/gregconradismith/writing) is the private
   creative-writing archive for drafts, works in development, submissions, and
-  material that may never be public.
+  material that may never be public. Within it,
+  `room-for-god-and-others-staging/` is the staging area for possible future
+  public-site material, and `room-for-god-and-others-versions/` holds backup
+  copies and alternate/different versions of public-site material.
 - Raw writing exports, including Evernote `.enex` files and original
   Overleaf/source export folders or zips, are kept outside Git in
   `~/Main/Personal/Writing`, which is inside the Dropbox-synced `~/Main/`
@@ -90,3 +90,12 @@ The Pages workflow also runs once a day so the static voice-of-the-day page refr
 ## Codex Coordination
 
 Codex session state is tracked in `.codex/handoff.md`; durable decisions and task history may also appear in `.codex/` when useful.
+
+Private draft and staging material is not kept in this public repository. The
+private writing archive is `../writing`; its
+`room-for-god-and-others-staging/` folder is the staging area for possible
+future public-site material, and `room-for-god-and-others-versions/` holds
+backup copies and alternate/different versions of public-site material.
+
+Do not copy private material into this repository unless Greg explicitly
+approves publishing the specific item.

@@ -3,13 +3,17 @@
 This site is built by GitHub Actions, not by installing or running Jekyll locally.
 
 - This public repository was recreated with clean history on 2026-06-18. Do not push from older local clones that still contain pre-reset history.
-- This repository is the public publication target. Private drafts and staging
-  work may live in `room-for-god-and-others-private`; broader private writing
-  archive material may live in `writing`; raw local exports may live outside Git
-  in `~/Main/Personal/Writing`. The parent `~/Main/` folder is Dropbox-synced.
+- This repository is the public publication target. Private drafts, staging
+  work, and public-site backup/version copies live in `../writing`; raw local
+  exports may live outside Git in `~/Main/Personal/Writing`. The parent
+  `~/Main/` folder is Dropbox-synced.
 - Keep `.codex/handoff.md` public-safe. Do not add private triage details,
   private-only writing inventories, or private-repo content to this public
   repository.
+- Within `../writing`, `room-for-god-and-others-staging/` is the private
+  staging area for possible future public-site material, and
+  `room-for-god-and-others-versions/` holds backup copies and
+  alternate/different versions of public-site material.
 - Do not copy private material or raw local export material into this public
   repository unless Greg explicitly approves that specific piece for
   publication.
