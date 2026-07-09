@@ -25,6 +25,10 @@ This site is built by GitHub Actions, not by installing or running Jekyll locall
   `_thoughts`, and `_quotes` should have `image`, `image_alt`, and
   `image_credit` front matter. `scripts/validate_content.rb` enforces this so
   randomized homepage previews never render without art.
+- Greg's standing preference is that when mined or staged writing material is
+  made "public" rather than merely "staged," each new public item should receive
+  a generated image by default, with required public-site image metadata and AI
+  image attribution ledger updates.
 - Goodreads homepage data is refreshed during the GitHub Pages workflow by `scripts/update_goodreads.rb`; `_data/goodreads.yml` is the committed fallback snapshot.
 - Goodreads homepage data should show only recently read books, not a
   "Currently Reading" category.
