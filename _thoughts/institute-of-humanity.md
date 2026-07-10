@@ -2,7 +2,6 @@
 layout: thought
 title: "Institute of humanity"
 date: 2026-06-21
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/institute-of-humanity.jpg"
 image_alt: "Raphael's The School of Athens, with philosophers and students gathered in an open architectural space."
 image_credit: "Raphael, The School of Athens, 1509-1511, Apostolic Palace, Vatican City, via Wikimedia Commons; public domain."

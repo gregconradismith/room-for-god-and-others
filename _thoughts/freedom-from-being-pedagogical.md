@@ -2,7 +2,6 @@
 layout: thought
 title: "Freedom from being pedagogical"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/freedom-from-being-pedagogical.png"
 image_alt: "AI-generated editorial illustration of a quiet writing desk with an open notebook, a pen, and a loosened lecture outline in soft daylight."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

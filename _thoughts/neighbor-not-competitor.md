@@ -2,7 +2,6 @@
 layout: thought
 title: "Neighbor, not competitor"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/neighbor-not-competitor.png"
 image_alt: "AI-generated editorial illustration of two empty chairs facing a shared table with books, a cup, and a plant in a quiet courtyard."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

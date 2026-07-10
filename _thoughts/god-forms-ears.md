@@ -2,7 +2,6 @@
 layout: thought
 title: "God forms ears"
 date: 2026-06-21
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/god-forms-ears.jpg"
 image_alt: "Henry Ossawa Tanner's painting The Annunciation, with Mary seated in a sparse room before a column of golden light."
 image_credit: "Henry Ossawa Tanner, The Annunciation, 1898, Philadelphia Museum of Art, via Wikimedia Commons; public domain."

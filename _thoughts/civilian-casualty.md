@@ -2,7 +2,6 @@
 layout: thought
 title: "Civilian casualty"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/civilian-casualty.png"
 image_alt: "AI-generated editorial illustration of a quiet storm-darkened city street with one warm lit window and a small sprout by cracked pavement."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

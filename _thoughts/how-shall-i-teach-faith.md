@@ -2,7 +2,6 @@
 layout: thought
 title: "How shall I teach faith?"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/how-shall-i-teach-faith.png"
 image_alt: "AI-generated editorial illustration of a teaching desk with an open notebook, reading glasses, a plant, and a small scientific model."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

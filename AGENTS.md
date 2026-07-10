@@ -36,6 +36,11 @@ This site is built by GitHub Actions, not by installing or running Jekyll locall
 - Homepage writing cards should use the collection-derived small-caps kind
   labels (`Essay`, `Poem`, `Saying`, `Thought`, `Quote`) and the existing theme
   categories. Do not add generated subtitle or teaser text to those cards.
+- Do not automatically present Greg-authored thoughts as quotations. `_thoughts`
+  items should render as prose unless a specific passage is actually quoting
+  Scripture, another author, or an explicitly quoted saying inside the thought.
+  Do not add `source: Greg Conradi Smith` to thought front matter; reserve
+  source attribution for voices/quotes or actual external sources.
 - Do not restore the old homepage "Reading Paths" row or "Voice of the Day"
   section unless Greg explicitly asks for them.
 - Do not run `bundle install`, install Jekyll gems, or create local Bundler artifacts in this repository.

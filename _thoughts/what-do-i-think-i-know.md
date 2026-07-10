@@ -2,7 +2,6 @@
 layout: thought
 title: "What do I think I know?"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/what-do-i-think-i-know.png"
 image_alt: "AI-generated editorial illustration of a blank notebook, pencil, compass, index cards, and abstract non-readable diagrams on a desk."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

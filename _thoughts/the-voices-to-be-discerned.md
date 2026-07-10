@@ -2,7 +2,6 @@
 layout: thought
 title: "The voices to be discerned"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/voices-to-be-discerned.png"
 image_alt: "AI-generated editorial illustration of an open journal on a lit table with abstract light paths converging from several shadowed doorways."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

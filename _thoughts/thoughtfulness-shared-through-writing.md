@@ -2,7 +2,6 @@
 layout: thought
 title: "Thoughtfulness shared through writing"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/thoughtfulness-shared-through-writing.png"
 image_alt: "AI-generated editorial illustration of an open journal, a pen, and two cups across a quiet writing desk in morning light."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

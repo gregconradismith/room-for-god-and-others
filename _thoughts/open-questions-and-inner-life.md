@@ -2,7 +2,6 @@
 layout: thought
 title: "Open questions and inner life"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/open-questions-and-inner-life.png"
 image_alt: "AI-generated editorial illustration of a quiet desk with an open notebook, magnifying glass, scientific model, and worn book."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

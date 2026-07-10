@@ -12,7 +12,7 @@ themes:
   - "Instead of beauty, branding"
   - "Jesus loves Darwin"
 ---
-> God gave me my writing so that I might tell the truth.
+God gave me my writing so that I might tell the truth.
 
 But the world does not need more opinions. The world needs balm, salve, and a dressing for the wound. There will be no laser-focused critique of contemporary culture from me. And yet: “Do you not know that we will judge angels? How much more the things of this life!” (1 Corinthians 6:3)
 

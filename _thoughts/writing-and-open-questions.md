@@ -2,7 +2,6 @@
 layout: thought
 title: "Writing and open questions"
 date: 2026-06-20
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/writing-and-open-questions.jpg"
 image_alt: "A scientist using a microscope to examine a slide."
 image_credit: "Photograph by Morgan Brown/CSIRO, via Wikimedia Commons; licensed under CC BY 3.0."

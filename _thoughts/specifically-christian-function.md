@@ -2,7 +2,6 @@
 layout: thought
 title: "Specifically Christian function"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/specifically-christian-function.png"
 image_alt: "AI-generated editorial illustration of a professor's desk with a small glowing lamp, a blank notebook, and a scientific model in balanced still life."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."

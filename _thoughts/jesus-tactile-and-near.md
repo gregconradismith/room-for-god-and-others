@@ -2,7 +2,6 @@
 layout: thought
 title: "Jesus, Tactile and Near"
 date: 2026-07-08
-source: "Greg Conradi Smith"
 image: "/assets/images/quotes/seeing-jesus.jpg"
 image_alt: "AI-generated editorial illustration selected for this thought."
 image_credit: "Illustration generated with ChatGPT by OpenAI, prompted and selected by Greg Conrad Smith, 2026."

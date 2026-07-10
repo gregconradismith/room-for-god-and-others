@@ -2,7 +2,6 @@
 layout: thought
 title: "Jesus' voice and the stranger's words"
 date: 2026-07-09
-source: "Greg Conradi Smith"
 image: "/assets/images/thoughts/jesus-voice-and-strangers-words.png"
 image_alt: "AI-generated editorial illustration of an unlabeled open book in a quiet reading room with two contrasting paths of light across the pages."
 image_credit: "Illustration generated with ChatGPT by OpenAI for Greg Conrad Smith, 2026."
